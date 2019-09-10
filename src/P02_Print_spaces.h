@@ -11,6 +11,7 @@ using namespace std;
 
 class P02_Print_spaces {
 public:
+    void replaceSpace(char *str,int length);
     int test();
 };
 
