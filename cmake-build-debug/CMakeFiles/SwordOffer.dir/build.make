@@ -82,36 +82,51 @@ CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P01_2d_array_find.cpp -o CMakeFiles\SwordOffer.dir\src\P01_2d_array_find.cpp.s
 
-CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
-CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.obj: ../src/P02_Print_spaces.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.obj"
-	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P02_Print_spaces.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P02_Print_spaces.cpp
+CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj: ../src/P02_Replace_spaces.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P02_Replace_spaces.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P02_Replace_spaces.cpp
 
-CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P02_Print_spaces.cpp > CMakeFiles\SwordOffer.dir\src\P02_Print_spaces.cpp.i
+CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P02_Replace_spaces.cpp > CMakeFiles\SwordOffer.dir\src\P02_Replace_spaces.cpp.i
 
-CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P02_Print_spaces.cpp -o CMakeFiles\SwordOffer.dir\src\P02_Print_spaces.cpp.s
+CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P02_Replace_spaces.cpp -o CMakeFiles\SwordOffer.dir\src\P02_Replace_spaces.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj: ../src/P03_PrintListFromTailToHead.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P03_PrintListFromTailToHead.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P03_PrintListFromTailToHead.cpp
+
+CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P03_PrintListFromTailToHead.cpp > CMakeFiles\SwordOffer.dir\src\P03_PrintListFromTailToHead.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P03_PrintListFromTailToHead.cpp -o CMakeFiles\SwordOffer.dir\src\P03_PrintListFromTailToHead.cpp.s
 
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
 
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/main.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
-SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

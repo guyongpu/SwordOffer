@@ -3,11 +3,15 @@
 
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P01_2d_array_find.h
-CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P02_Print_spaces.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P02_Replace_spaces.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P03_PrintListFromTailToHead.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
 
-CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.obj: ../src/P02_Print_spaces.cpp
-CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.obj: ../src/P02_Print_spaces.h
+CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj: ../src/P02_Replace_spaces.cpp
+CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj: ../src/P02_Replace_spaces.h
+
+CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj: ../src/P03_PrintListFromTailToHead.cpp
+CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj: ../src/P03_PrintListFromTailToHead.h
 

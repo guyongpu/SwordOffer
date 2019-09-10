@@ -6,9 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
-P01_2d_array_find.h
+E:/OneDrive/CodingInterview/SwordOffer/main.cpp
+iostream
+-
+src/P01_2d_array_find.h
 E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
+src/P02_Replace_spaces.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P02_Replace_spaces.h
+src/P03_PrintListFromTailToHead.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.h
 
 E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
 vector
@@ -16,13 +22,25 @@ vector
 iostream
 -
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P02_Print_spaces.cpp
-P02_Print_spaces.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P02_Print_spaces.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P02_Replace_spaces.cpp
+P02_Replace_spaces.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P02_Replace_spaces.h
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P02_Print_spaces.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P02_Replace_spaces.h
 vector
 -
 iostream
+-
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.cpp
+P03_PrintListFromTailToHead.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.h
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.h
+vector
+-
+iostream
+-
+algorithm
 -
 

@@ -89,10 +89,16 @@
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h">
 			<Option target="SwordOffer"/>
 		</Unit>
-		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P02_Print_spaces.cpp">
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P02_Replace_spaces.cpp">
 			<Option target="SwordOffer"/>
 		</Unit>
-		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P02_Print_spaces.h">
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P02_Replace_spaces.h">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.h">
 			<Option target="SwordOffer"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/CMakeLists.txt">

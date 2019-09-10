@@ -176,32 +176,59 @@ src/P01_2d_array_find.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.s
 .PHONY : src/P01_2d_array_find.cpp.s
 
-src/P02_Print_spaces.obj: src/P02_Print_spaces.cpp.obj
+src/P02_Replace_spaces.obj: src/P02_Replace_spaces.cpp.obj
 
-.PHONY : src/P02_Print_spaces.obj
+.PHONY : src/P02_Replace_spaces.obj
 
 # target to build an object file
-src/P02_Print_spaces.cpp.obj:
-	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.obj
-.PHONY : src/P02_Print_spaces.cpp.obj
+src/P02_Replace_spaces.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj
+.PHONY : src/P02_Replace_spaces.cpp.obj
 
-src/P02_Print_spaces.i: src/P02_Print_spaces.cpp.i
+src/P02_Replace_spaces.i: src/P02_Replace_spaces.cpp.i
 
-.PHONY : src/P02_Print_spaces.i
+.PHONY : src/P02_Replace_spaces.i
 
 # target to preprocess a source file
-src/P02_Print_spaces.cpp.i:
-	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.i
-.PHONY : src/P02_Print_spaces.cpp.i
+src/P02_Replace_spaces.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.i
+.PHONY : src/P02_Replace_spaces.cpp.i
 
-src/P02_Print_spaces.s: src/P02_Print_spaces.cpp.s
+src/P02_Replace_spaces.s: src/P02_Replace_spaces.cpp.s
 
-.PHONY : src/P02_Print_spaces.s
+.PHONY : src/P02_Replace_spaces.s
 
 # target to generate assembly for a file
-src/P02_Print_spaces.cpp.s:
-	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P02_Print_spaces.cpp.s
-.PHONY : src/P02_Print_spaces.cpp.s
+src/P02_Replace_spaces.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.s
+.PHONY : src/P02_Replace_spaces.cpp.s
+
+src/P03_PrintListFromTailToHead.obj: src/P03_PrintListFromTailToHead.cpp.obj
+
+.PHONY : src/P03_PrintListFromTailToHead.obj
+
+# target to build an object file
+src/P03_PrintListFromTailToHead.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj
+.PHONY : src/P03_PrintListFromTailToHead.cpp.obj
+
+src/P03_PrintListFromTailToHead.i: src/P03_PrintListFromTailToHead.cpp.i
+
+.PHONY : src/P03_PrintListFromTailToHead.i
+
+# target to preprocess a source file
+src/P03_PrintListFromTailToHead.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.i
+.PHONY : src/P03_PrintListFromTailToHead.cpp.i
+
+src/P03_PrintListFromTailToHead.s: src/P03_PrintListFromTailToHead.cpp.s
+
+.PHONY : src/P03_PrintListFromTailToHead.s
+
+# target to generate assembly for a file
+src/P03_PrintListFromTailToHead.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.s
+.PHONY : src/P03_PrintListFromTailToHead.cpp.s
 
 # Help Target
 help:
@@ -218,9 +245,12 @@ help:
 	@echo ... src/P01_2d_array_find.obj
 	@echo ... src/P01_2d_array_find.i
 	@echo ... src/P01_2d_array_find.s
-	@echo ... src/P02_Print_spaces.obj
-	@echo ... src/P02_Print_spaces.i
-	@echo ... src/P02_Print_spaces.s
+	@echo ... src/P02_Replace_spaces.obj
+	@echo ... src/P02_Replace_spaces.i
+	@echo ... src/P02_Replace_spaces.s
+	@echo ... src/P03_PrintListFromTailToHead.obj
+	@echo ... src/P03_PrintListFromTailToHead.i
+	@echo ... src/P03_PrintListFromTailToHead.s
 .PHONY : help
 
 

@@ -19,16 +19,16 @@
  * （1）小替换大，则从后向前，时间复杂度为O(n)；
  * （2）大替换小，则从前向后，时间复杂度为O(n)。
  */
-#include "P02_Print_spaces.h"
+#include "P02_Replace_spaces.h"
 
-int P02_Print_spaces::test() {
+int P02_Replace_spaces::test() {
     char s[] = "We Are Happy.";
     replaceSpace(s , 100);
     cout << s<< endl;
     return 0;
 }
 
-void P02_Print_spaces::replaceSpace(char *str, int length) {
+void P02_Replace_spaces::replaceSpace(char *str, int length) {
     if(str == nullptr || length <= 0)
         return ;
     int oldLength = 0;
