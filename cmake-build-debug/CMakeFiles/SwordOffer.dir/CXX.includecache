@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/OneDrive/CodingInterview/SwordOffer/main.cpp
+iostream
+-
+src/P02_Print_spaces.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P02_Print_spaces.h
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
+P01_2d_array_find.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
+vector
+-
+iostream
+-
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P02_Print_spaces.cpp
+P02_Print_spaces.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P02_Print_spaces.h
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P02_Print_spaces.h
+vector
+-
+iostream
+-
+
