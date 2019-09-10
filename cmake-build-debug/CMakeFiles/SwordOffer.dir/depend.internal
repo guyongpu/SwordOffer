@@ -6,6 +6,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P02_Replace_spaces.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P04_ReConstructBinaryTree.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -15,3 +16,6 @@ CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj
 CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.h
+CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P04_ReConstructBinaryTree.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P04_ReConstructBinaryTree.h

@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P02_Replace_spaces.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P03_PrintListFromTailToHead.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P04_ReConstructBinaryTree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -230,6 +230,33 @@ src/P03_PrintListFromTailToHead.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.s
 .PHONY : src/P03_PrintListFromTailToHead.cpp.s
 
+src/P04_ReConstructBinaryTree.obj: src/P04_ReConstructBinaryTree.cpp.obj
+
+.PHONY : src/P04_ReConstructBinaryTree.obj
+
+# target to build an object file
+src/P04_ReConstructBinaryTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj
+.PHONY : src/P04_ReConstructBinaryTree.cpp.obj
+
+src/P04_ReConstructBinaryTree.i: src/P04_ReConstructBinaryTree.cpp.i
+
+.PHONY : src/P04_ReConstructBinaryTree.i
+
+# target to preprocess a source file
+src/P04_ReConstructBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.i
+.PHONY : src/P04_ReConstructBinaryTree.cpp.i
+
+src/P04_ReConstructBinaryTree.s: src/P04_ReConstructBinaryTree.cpp.s
+
+.PHONY : src/P04_ReConstructBinaryTree.s
+
+# target to generate assembly for a file
+src/P04_ReConstructBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.s
+.PHONY : src/P04_ReConstructBinaryTree.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -251,6 +278,9 @@ help:
 	@echo ... src/P03_PrintListFromTailToHead.obj
 	@echo ... src/P03_PrintListFromTailToHead.i
 	@echo ... src/P03_PrintListFromTailToHead.s
+	@echo ... src/P04_ReConstructBinaryTree.obj
+	@echo ... src/P04_ReConstructBinaryTree.i
+	@echo ... src/P04_ReConstructBinaryTree.s
 .PHONY : help
 
 

@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P02_Replace_spaces.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"
