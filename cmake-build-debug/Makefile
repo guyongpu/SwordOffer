@@ -257,6 +257,168 @@ src/P04_ReConstructBinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.s
 .PHONY : src/P04_ReConstructBinaryTree.cpp.s
 
+src/P05_Queue_with_two_stacks.obj: src/P05_Queue_with_two_stacks.cpp.obj
+
+.PHONY : src/P05_Queue_with_two_stacks.obj
+
+# target to build an object file
+src/P05_Queue_with_two_stacks.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P05_Queue_with_two_stacks.cpp.obj
+.PHONY : src/P05_Queue_with_two_stacks.cpp.obj
+
+src/P05_Queue_with_two_stacks.i: src/P05_Queue_with_two_stacks.cpp.i
+
+.PHONY : src/P05_Queue_with_two_stacks.i
+
+# target to preprocess a source file
+src/P05_Queue_with_two_stacks.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P05_Queue_with_two_stacks.cpp.i
+.PHONY : src/P05_Queue_with_two_stacks.cpp.i
+
+src/P05_Queue_with_two_stacks.s: src/P05_Queue_with_two_stacks.cpp.s
+
+.PHONY : src/P05_Queue_with_two_stacks.s
+
+# target to generate assembly for a file
+src/P05_Queue_with_two_stacks.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P05_Queue_with_two_stacks.cpp.s
+.PHONY : src/P05_Queue_with_two_stacks.cpp.s
+
+src/P06_Min_of_Rotate_arrays.obj: src/P06_Min_of_Rotate_arrays.cpp.obj
+
+.PHONY : src/P06_Min_of_Rotate_arrays.obj
+
+# target to build an object file
+src/P06_Min_of_Rotate_arrays.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P06_Min_of_Rotate_arrays.cpp.obj
+.PHONY : src/P06_Min_of_Rotate_arrays.cpp.obj
+
+src/P06_Min_of_Rotate_arrays.i: src/P06_Min_of_Rotate_arrays.cpp.i
+
+.PHONY : src/P06_Min_of_Rotate_arrays.i
+
+# target to preprocess a source file
+src/P06_Min_of_Rotate_arrays.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P06_Min_of_Rotate_arrays.cpp.i
+.PHONY : src/P06_Min_of_Rotate_arrays.cpp.i
+
+src/P06_Min_of_Rotate_arrays.s: src/P06_Min_of_Rotate_arrays.cpp.s
+
+.PHONY : src/P06_Min_of_Rotate_arrays.s
+
+# target to generate assembly for a file
+src/P06_Min_of_Rotate_arrays.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P06_Min_of_Rotate_arrays.cpp.s
+.PHONY : src/P06_Min_of_Rotate_arrays.cpp.s
+
+src/P07_Fibonacci.obj: src/P07_Fibonacci.cpp.obj
+
+.PHONY : src/P07_Fibonacci.obj
+
+# target to build an object file
+src/P07_Fibonacci.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P07_Fibonacci.cpp.obj
+.PHONY : src/P07_Fibonacci.cpp.obj
+
+src/P07_Fibonacci.i: src/P07_Fibonacci.cpp.i
+
+.PHONY : src/P07_Fibonacci.i
+
+# target to preprocess a source file
+src/P07_Fibonacci.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P07_Fibonacci.cpp.i
+.PHONY : src/P07_Fibonacci.cpp.i
+
+src/P07_Fibonacci.s: src/P07_Fibonacci.cpp.s
+
+.PHONY : src/P07_Fibonacci.s
+
+# target to generate assembly for a file
+src/P07_Fibonacci.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P07_Fibonacci.cpp.s
+.PHONY : src/P07_Fibonacci.cpp.s
+
+src/P08_JumpFloor.obj: src/P08_JumpFloor.cpp.obj
+
+.PHONY : src/P08_JumpFloor.obj
+
+# target to build an object file
+src/P08_JumpFloor.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P08_JumpFloor.cpp.obj
+.PHONY : src/P08_JumpFloor.cpp.obj
+
+src/P08_JumpFloor.i: src/P08_JumpFloor.cpp.i
+
+.PHONY : src/P08_JumpFloor.i
+
+# target to preprocess a source file
+src/P08_JumpFloor.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P08_JumpFloor.cpp.i
+.PHONY : src/P08_JumpFloor.cpp.i
+
+src/P08_JumpFloor.s: src/P08_JumpFloor.cpp.s
+
+.PHONY : src/P08_JumpFloor.s
+
+# target to generate assembly for a file
+src/P08_JumpFloor.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P08_JumpFloor.cpp.s
+.PHONY : src/P08_JumpFloor.cpp.s
+
+src/P09_JumpFloor_Advanced.obj: src/P09_JumpFloor_Advanced.cpp.obj
+
+.PHONY : src/P09_JumpFloor_Advanced.obj
+
+# target to build an object file
+src/P09_JumpFloor_Advanced.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P09_JumpFloor_Advanced.cpp.obj
+.PHONY : src/P09_JumpFloor_Advanced.cpp.obj
+
+src/P09_JumpFloor_Advanced.i: src/P09_JumpFloor_Advanced.cpp.i
+
+.PHONY : src/P09_JumpFloor_Advanced.i
+
+# target to preprocess a source file
+src/P09_JumpFloor_Advanced.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P09_JumpFloor_Advanced.cpp.i
+.PHONY : src/P09_JumpFloor_Advanced.cpp.i
+
+src/P09_JumpFloor_Advanced.s: src/P09_JumpFloor_Advanced.cpp.s
+
+.PHONY : src/P09_JumpFloor_Advanced.s
+
+# target to generate assembly for a file
+src/P09_JumpFloor_Advanced.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P09_JumpFloor_Advanced.cpp.s
+.PHONY : src/P09_JumpFloor_Advanced.cpp.s
+
+src/P10_MatrixCoverage.obj: src/P10_MatrixCoverage.cpp.obj
+
+.PHONY : src/P10_MatrixCoverage.obj
+
+# target to build an object file
+src/P10_MatrixCoverage.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj
+.PHONY : src/P10_MatrixCoverage.cpp.obj
+
+src/P10_MatrixCoverage.i: src/P10_MatrixCoverage.cpp.i
+
+.PHONY : src/P10_MatrixCoverage.i
+
+# target to preprocess a source file
+src/P10_MatrixCoverage.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.i
+.PHONY : src/P10_MatrixCoverage.cpp.i
+
+src/P10_MatrixCoverage.s: src/P10_MatrixCoverage.cpp.s
+
+.PHONY : src/P10_MatrixCoverage.s
+
+# target to generate assembly for a file
+src/P10_MatrixCoverage.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.s
+.PHONY : src/P10_MatrixCoverage.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -281,6 +443,24 @@ help:
 	@echo ... src/P04_ReConstructBinaryTree.obj
 	@echo ... src/P04_ReConstructBinaryTree.i
 	@echo ... src/P04_ReConstructBinaryTree.s
+	@echo ... src/P05_Queue_with_two_stacks.obj
+	@echo ... src/P05_Queue_with_two_stacks.i
+	@echo ... src/P05_Queue_with_two_stacks.s
+	@echo ... src/P06_Min_of_Rotate_arrays.obj
+	@echo ... src/P06_Min_of_Rotate_arrays.i
+	@echo ... src/P06_Min_of_Rotate_arrays.s
+	@echo ... src/P07_Fibonacci.obj
+	@echo ... src/P07_Fibonacci.i
+	@echo ... src/P07_Fibonacci.s
+	@echo ... src/P08_JumpFloor.obj
+	@echo ... src/P08_JumpFloor.i
+	@echo ... src/P08_JumpFloor.s
+	@echo ... src/P09_JumpFloor_Advanced.obj
+	@echo ... src/P09_JumpFloor_Advanced.i
+	@echo ... src/P09_JumpFloor_Advanced.s
+	@echo ... src/P10_MatrixCoverage.obj
+	@echo ... src/P10_MatrixCoverage.i
+	@echo ... src/P10_MatrixCoverage.s
 .PHONY : help
 
 

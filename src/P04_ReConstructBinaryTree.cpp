@@ -15,17 +15,20 @@ TreeNode *P04_ReConstructBinaryTree::reConstructBinaryTree(vector<int> pre, vect
     if(pre.size() == 0)
         return NULL;
     TreeNode *root = new TreeNode(pre[0]);
+
     vector<int>::iterator it = find(vin.begin(), vin.end(), pre[0]);//寻找pre[0]在vin中的位置
     int index = it - vin.begin();
     vector <int> pre_left, vin_left;   //左子树的前序和中序
     vector <int> pre_right, vin_right; //右子树的前序和中序
-//    cout << "index = " << index<< endl;
+    //cout << "index = " << index<< endl;
+
     //给左子树的前序和中序赋值
     pre_left.assign(pre.begin() + 1, pre.begin() + 1 + index);
     vin_left.assign(vin.begin(), vin.begin()+index);
     //给右子树的前序和中序赋值
     pre_right.assign(pre.begin()+index+1, pre.end());
     vin_right.assign(vin.begin()+index+1, vin.end());
+
     //递归求解左子树和右子树
     root->left = reConstructBinaryTree(pre_left,vin_left);      //建立左子树
     root->right = reConstructBinaryTree(pre_right,vin_right);   //建立右子树

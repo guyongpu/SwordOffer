@@ -12,8 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P04_ReConstructBinaryTree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_ReConstructBinaryTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P05_Queue_with_two_stacks.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P05_Queue_with_two_stacks.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Min_of_Rotate_arrays.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Min_of_Rotate_arrays.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P07_Fibonacci.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P07_Fibonacci.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P08_JumpFloor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P08_JumpFloor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P09_JumpFloor_Advanced.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P09_JumpFloor_Advanced.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P10_MatrixCoverage.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P10_MatrixCoverage.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -28,12 +38,13 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P04_ReConstructBinaryTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P04_ReConstructBinaryTree.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +100,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568077264681</updated>
-      <workItem from="1568077266545" duration="26909000" />
+      <workItem from="1568077266545" duration="27036000" />
+      <workItem from="1568163624494" duration="17515000" />
     </task>
     <servers />
   </component>
@@ -101,10 +113,23 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P05_Queue_with_two_stacks.cpp</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
