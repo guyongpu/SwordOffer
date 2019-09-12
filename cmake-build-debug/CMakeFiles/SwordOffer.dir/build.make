@@ -199,6 +199,45 @@ CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P10_MatrixCoverage.cpp -o CMakeFiles\SwordOffer.dir\src\P10_MatrixCoverage.cpp.s
 
+CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj: ../src/P11_NumOf_1_InTheBinary.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P11_NumOf_1_InTheBinary.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P11_NumOf_1_InTheBinary.cpp
+
+CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P11_NumOf_1_InTheBinary.cpp > CMakeFiles\SwordOffer.dir\src\P11_NumOf_1_InTheBinary.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P11_NumOf_1_InTheBinary.cpp -o CMakeFiles\SwordOffer.dir\src\P11_NumOf_1_InTheBinary.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj: ../src/P12_Numerical_Integer_Power.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P12_Numerical_Integer_Power.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P12_Numerical_Integer_Power.cpp
+
+CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P12_Numerical_Integer_Power.cpp > CMakeFiles\SwordOffer.dir\src\P12_Numerical_Integer_Power.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P12_Numerical_Integer_Power.cpp -o CMakeFiles\SwordOffer.dir\src\P12_Numerical_Integer_Power.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj: ../src/P13_ReOrderArray_Odd_front_Even.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P13_ReOrderArray_Odd_front_Even.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P13_ReOrderArray_Odd_front_Even.cpp
+
+CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P13_ReOrderArray_Odd_front_Even.cpp > CMakeFiles\SwordOffer.dir\src\P13_ReOrderArray_Odd_front_Even.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P13_ReOrderArray_Odd_front_Even.cpp -o CMakeFiles\SwordOffer.dir\src\P13_ReOrderArray_Odd_front_Even.cpp.s
+
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
@@ -211,7 +250,10 @@ SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/src/P07_Fibonacci.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P08_JumpFloor.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P09_JumpFloor_Advanced.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
@@ -227,11 +269,14 @@ SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P07_Fibonacci.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P08_JumpFloor.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P09_JumpFloor_Advanced.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -419,6 +419,87 @@ src/P10_MatrixCoverage.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.s
 .PHONY : src/P10_MatrixCoverage.cpp.s
 
+src/P11_NumOf_1_InTheBinary.obj: src/P11_NumOf_1_InTheBinary.cpp.obj
+
+.PHONY : src/P11_NumOf_1_InTheBinary.obj
+
+# target to build an object file
+src/P11_NumOf_1_InTheBinary.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj
+.PHONY : src/P11_NumOf_1_InTheBinary.cpp.obj
+
+src/P11_NumOf_1_InTheBinary.i: src/P11_NumOf_1_InTheBinary.cpp.i
+
+.PHONY : src/P11_NumOf_1_InTheBinary.i
+
+# target to preprocess a source file
+src/P11_NumOf_1_InTheBinary.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.i
+.PHONY : src/P11_NumOf_1_InTheBinary.cpp.i
+
+src/P11_NumOf_1_InTheBinary.s: src/P11_NumOf_1_InTheBinary.cpp.s
+
+.PHONY : src/P11_NumOf_1_InTheBinary.s
+
+# target to generate assembly for a file
+src/P11_NumOf_1_InTheBinary.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.s
+.PHONY : src/P11_NumOf_1_InTheBinary.cpp.s
+
+src/P12_Numerical_Integer_Power.obj: src/P12_Numerical_Integer_Power.cpp.obj
+
+.PHONY : src/P12_Numerical_Integer_Power.obj
+
+# target to build an object file
+src/P12_Numerical_Integer_Power.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj
+.PHONY : src/P12_Numerical_Integer_Power.cpp.obj
+
+src/P12_Numerical_Integer_Power.i: src/P12_Numerical_Integer_Power.cpp.i
+
+.PHONY : src/P12_Numerical_Integer_Power.i
+
+# target to preprocess a source file
+src/P12_Numerical_Integer_Power.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.i
+.PHONY : src/P12_Numerical_Integer_Power.cpp.i
+
+src/P12_Numerical_Integer_Power.s: src/P12_Numerical_Integer_Power.cpp.s
+
+.PHONY : src/P12_Numerical_Integer_Power.s
+
+# target to generate assembly for a file
+src/P12_Numerical_Integer_Power.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.s
+.PHONY : src/P12_Numerical_Integer_Power.cpp.s
+
+src/P13_ReOrderArray_Odd_front_Even.obj: src/P13_ReOrderArray_Odd_front_Even.cpp.obj
+
+.PHONY : src/P13_ReOrderArray_Odd_front_Even.obj
+
+# target to build an object file
+src/P13_ReOrderArray_Odd_front_Even.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj
+.PHONY : src/P13_ReOrderArray_Odd_front_Even.cpp.obj
+
+src/P13_ReOrderArray_Odd_front_Even.i: src/P13_ReOrderArray_Odd_front_Even.cpp.i
+
+.PHONY : src/P13_ReOrderArray_Odd_front_Even.i
+
+# target to preprocess a source file
+src/P13_ReOrderArray_Odd_front_Even.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.i
+.PHONY : src/P13_ReOrderArray_Odd_front_Even.cpp.i
+
+src/P13_ReOrderArray_Odd_front_Even.s: src/P13_ReOrderArray_Odd_front_Even.cpp.s
+
+.PHONY : src/P13_ReOrderArray_Odd_front_Even.s
+
+# target to generate assembly for a file
+src/P13_ReOrderArray_Odd_front_Even.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.s
+.PHONY : src/P13_ReOrderArray_Odd_front_Even.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -461,6 +542,15 @@ help:
 	@echo ... src/P10_MatrixCoverage.obj
 	@echo ... src/P10_MatrixCoverage.i
 	@echo ... src/P10_MatrixCoverage.s
+	@echo ... src/P11_NumOf_1_InTheBinary.obj
+	@echo ... src/P11_NumOf_1_InTheBinary.i
+	@echo ... src/P11_NumOf_1_InTheBinary.s
+	@echo ... src/P12_Numerical_Integer_Power.obj
+	@echo ... src/P12_Numerical_Integer_Power.i
+	@echo ... src/P12_Numerical_Integer_Power.s
+	@echo ... src/P13_ReOrderArray_Odd_front_Even.obj
+	@echo ... src/P13_ReOrderArray_Odd_front_Even.i
+	@echo ... src/P13_ReOrderArray_Odd_front_Even.s
 .PHONY : help
 
 

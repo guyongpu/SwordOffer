@@ -13,6 +13,9 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P08_JumpFloor.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P09_JumpFloor_Advanced.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P10_MatrixCoverage.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P11_NumOf_1_InTheBinary.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P12_Numerical_Integer_Power.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P13_ReOrderArray_Odd_front_Even.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -43,3 +46,12 @@ CMakeFiles/SwordOffer.dir/src/P09_JumpFloor_Advanced.cpp.obj
 CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P10_MatrixCoverage.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P10_MatrixCoverage.h
+CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P11_NumOf_1_InTheBinary.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P11_NumOf_1_InTheBinary.h
+CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P12_Numerical_Integer_Power.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P12_Numerical_Integer_Power.h
+CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P13_ReOrderArray_Odd_front_Even.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P13_ReOrderArray_Odd_front_Even.h

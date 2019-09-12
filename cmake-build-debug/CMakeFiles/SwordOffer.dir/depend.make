@@ -12,6 +12,9 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P07_Fibonacci.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P08_JumpFloor.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P09_JumpFloor_Advanced.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P10_MatrixCoverage.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P11_NumOf_1_InTheBinary.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P12_Numerical_Integer_Power.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P13_ReOrderArray_Odd_front_Even.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -42,4 +45,13 @@ CMakeFiles/SwordOffer.dir/src/P09_JumpFloor_Advanced.cpp.obj: ../src/P09_JumpFlo
 
 CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj: ../src/P10_MatrixCoverage.cpp
 CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj: ../src/P10_MatrixCoverage.h
+
+CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj: ../src/P11_NumOf_1_InTheBinary.cpp
+CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj: ../src/P11_NumOf_1_InTheBinary.h
+
+CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj: ../src/P12_Numerical_Integer_Power.cpp
+CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj: ../src/P12_Numerical_Integer_Power.h
+
+CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj: ../src/P13_ReOrderArray_Odd_front_Even.cpp
+CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj: ../src/P13_ReOrderArray_Odd_front_Even.h
 

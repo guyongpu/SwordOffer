@@ -143,6 +143,24 @@
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P10_MatrixCoverage.h">
 			<Option target="SwordOffer"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P11_NumOf_1_InTheBinary.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P11_NumOf_1_InTheBinary.h">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P12_Numerical_Integer_Power.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P12_Numerical_Integer_Power.h">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P13_ReOrderArray_Odd_front_Even.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P13_ReOrderArray_Odd_front_Even.h">
+			<Option target="SwordOffer"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

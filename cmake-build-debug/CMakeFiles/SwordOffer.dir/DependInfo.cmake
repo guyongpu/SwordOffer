@@ -15,6 +15,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P08_JumpFloor.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P08_JumpFloor.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P09_JumpFloor_Advanced.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P09_JumpFloor_Advanced.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P10_MatrixCoverage.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P11_NumOf_1_InTheBinary.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P12_Numerical_Integer_Power.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P13_ReOrderArray_Odd_front_Even.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
