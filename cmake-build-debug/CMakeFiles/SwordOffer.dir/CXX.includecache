@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P19_PrintMatrixClockwise.cpp
+P19_PrintMatrixClockwise.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P19_PrintMatrixClockwise.h
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P19_PrintMatrixClockwise.h
 iostream
 -
-
-E:/OneDrive/CodingInterview/SwordOffer/src/P17_HasSubtree.cpp
-P17_HasSubtree.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P17_HasSubtree.h
-
-E:/OneDrive/CodingInterview/SwordOffer/src/P17_HasSubtree.h
-iostream
+vector
 -
-P00_CommonHead.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
 

@@ -608,6 +608,60 @@ src/P17_HasSubtree.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.s
 .PHONY : src/P17_HasSubtree.cpp.s
 
+src/P18_MirrorTree.obj: src/P18_MirrorTree.cpp.obj
+
+.PHONY : src/P18_MirrorTree.obj
+
+# target to build an object file
+src/P18_MirrorTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P18_MirrorTree.cpp.obj
+.PHONY : src/P18_MirrorTree.cpp.obj
+
+src/P18_MirrorTree.i: src/P18_MirrorTree.cpp.i
+
+.PHONY : src/P18_MirrorTree.i
+
+# target to preprocess a source file
+src/P18_MirrorTree.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P18_MirrorTree.cpp.i
+.PHONY : src/P18_MirrorTree.cpp.i
+
+src/P18_MirrorTree.s: src/P18_MirrorTree.cpp.s
+
+.PHONY : src/P18_MirrorTree.s
+
+# target to generate assembly for a file
+src/P18_MirrorTree.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P18_MirrorTree.cpp.s
+.PHONY : src/P18_MirrorTree.cpp.s
+
+src/P19_PrintMatrixClockwise.obj: src/P19_PrintMatrixClockwise.cpp.obj
+
+.PHONY : src/P19_PrintMatrixClockwise.obj
+
+# target to build an object file
+src/P19_PrintMatrixClockwise.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.obj
+.PHONY : src/P19_PrintMatrixClockwise.cpp.obj
+
+src/P19_PrintMatrixClockwise.i: src/P19_PrintMatrixClockwise.cpp.i
+
+.PHONY : src/P19_PrintMatrixClockwise.i
+
+# target to preprocess a source file
+src/P19_PrintMatrixClockwise.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.i
+.PHONY : src/P19_PrintMatrixClockwise.cpp.i
+
+src/P19_PrintMatrixClockwise.s: src/P19_PrintMatrixClockwise.cpp.s
+
+.PHONY : src/P19_PrintMatrixClockwise.s
+
+# target to generate assembly for a file
+src/P19_PrintMatrixClockwise.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.s
+.PHONY : src/P19_PrintMatrixClockwise.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -671,6 +725,12 @@ help:
 	@echo ... src/P17_HasSubtree.obj
 	@echo ... src/P17_HasSubtree.i
 	@echo ... src/P17_HasSubtree.s
+	@echo ... src/P18_MirrorTree.obj
+	@echo ... src/P18_MirrorTree.i
+	@echo ... src/P18_MirrorTree.s
+	@echo ... src/P19_PrintMatrixClockwise.obj
+	@echo ... src/P19_PrintMatrixClockwise.i
+	@echo ... src/P19_PrintMatrixClockwise.s
 .PHONY : help
 
 

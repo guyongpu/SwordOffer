@@ -17,11 +17,13 @@
 #include "src/P15_ReverseList.h"
 #include "src/P16_MergeTwoOrderedList.h"
 #include "src/P17_HasSubtree.h"
+#include "src/P18_MirrorTree.h"
+#include "src/P19_PrintMatrixClockwise.h"
 
 using namespace std;
 
 int main() {
-    P17_HasSubtree G;
+    P19_PrintMatrixClockwise G;
     G.test();
     return 0;
 }
