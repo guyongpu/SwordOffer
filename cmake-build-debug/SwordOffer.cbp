@@ -83,6 +83,9 @@
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/main.cpp">
 			<Option target="SwordOffer"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h">
+			<Option target="SwordOffer"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp">
 			<Option target="SwordOffer"/>
 		</Unit>
@@ -159,6 +162,24 @@
 			<Option target="SwordOffer"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P13_ReOrderArray_Odd_front_Even.h">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P14_FindKthToTailOfList.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P14_FindKthToTailOfList.h">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P15_ReverseList.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P15_ReverseList.h">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P16_MergeTwoOrderedList.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P16_MergeTwoOrderedList.h">
 			<Option target="SwordOffer"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/CMakeLists.txt">

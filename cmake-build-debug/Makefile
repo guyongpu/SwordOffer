@@ -500,6 +500,87 @@ src/P13_ReOrderArray_Odd_front_Even.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.s
 .PHONY : src/P13_ReOrderArray_Odd_front_Even.cpp.s
 
+src/P14_FindKthToTailOfList.obj: src/P14_FindKthToTailOfList.cpp.obj
+
+.PHONY : src/P14_FindKthToTailOfList.obj
+
+# target to build an object file
+src/P14_FindKthToTailOfList.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj
+.PHONY : src/P14_FindKthToTailOfList.cpp.obj
+
+src/P14_FindKthToTailOfList.i: src/P14_FindKthToTailOfList.cpp.i
+
+.PHONY : src/P14_FindKthToTailOfList.i
+
+# target to preprocess a source file
+src/P14_FindKthToTailOfList.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.i
+.PHONY : src/P14_FindKthToTailOfList.cpp.i
+
+src/P14_FindKthToTailOfList.s: src/P14_FindKthToTailOfList.cpp.s
+
+.PHONY : src/P14_FindKthToTailOfList.s
+
+# target to generate assembly for a file
+src/P14_FindKthToTailOfList.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.s
+.PHONY : src/P14_FindKthToTailOfList.cpp.s
+
+src/P15_ReverseList.obj: src/P15_ReverseList.cpp.obj
+
+.PHONY : src/P15_ReverseList.obj
+
+# target to build an object file
+src/P15_ReverseList.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj
+.PHONY : src/P15_ReverseList.cpp.obj
+
+src/P15_ReverseList.i: src/P15_ReverseList.cpp.i
+
+.PHONY : src/P15_ReverseList.i
+
+# target to preprocess a source file
+src/P15_ReverseList.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.i
+.PHONY : src/P15_ReverseList.cpp.i
+
+src/P15_ReverseList.s: src/P15_ReverseList.cpp.s
+
+.PHONY : src/P15_ReverseList.s
+
+# target to generate assembly for a file
+src/P15_ReverseList.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.s
+.PHONY : src/P15_ReverseList.cpp.s
+
+src/P16_MergeTwoOrderedList.obj: src/P16_MergeTwoOrderedList.cpp.obj
+
+.PHONY : src/P16_MergeTwoOrderedList.obj
+
+# target to build an object file
+src/P16_MergeTwoOrderedList.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj
+.PHONY : src/P16_MergeTwoOrderedList.cpp.obj
+
+src/P16_MergeTwoOrderedList.i: src/P16_MergeTwoOrderedList.cpp.i
+
+.PHONY : src/P16_MergeTwoOrderedList.i
+
+# target to preprocess a source file
+src/P16_MergeTwoOrderedList.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.i
+.PHONY : src/P16_MergeTwoOrderedList.cpp.i
+
+src/P16_MergeTwoOrderedList.s: src/P16_MergeTwoOrderedList.cpp.s
+
+.PHONY : src/P16_MergeTwoOrderedList.s
+
+# target to generate assembly for a file
+src/P16_MergeTwoOrderedList.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.s
+.PHONY : src/P16_MergeTwoOrderedList.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -551,6 +632,15 @@ help:
 	@echo ... src/P13_ReOrderArray_Odd_front_Even.obj
 	@echo ... src/P13_ReOrderArray_Odd_front_Even.i
 	@echo ... src/P13_ReOrderArray_Odd_front_Even.s
+	@echo ... src/P14_FindKthToTailOfList.obj
+	@echo ... src/P14_FindKthToTailOfList.i
+	@echo ... src/P14_FindKthToTailOfList.s
+	@echo ... src/P15_ReverseList.obj
+	@echo ... src/P15_ReverseList.i
+	@echo ... src/P15_ReverseList.s
+	@echo ... src/P16_MergeTwoOrderedList.obj
+	@echo ... src/P16_MergeTwoOrderedList.i
+	@echo ... src/P16_MergeTwoOrderedList.s
 .PHONY : help
 
 

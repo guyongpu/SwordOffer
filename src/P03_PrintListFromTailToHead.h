@@ -8,15 +8,10 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+#include "P00_CommonHead.h"
 
 using namespace std;
 
-struct ListNode {
-    int val;
-    struct ListNode *next;
-    ListNode(int x):
-        val(x),next(NULL){}
-};
 
 class P03_PrintListFromTailToHead {
 public:

@@ -13,13 +13,14 @@
 #include "src/P11_NumOf_1_InTheBinary.h"
 #include "src/P12_Numerical_Integer_Power.h"
 #include "src/P13_ReOrderArray_Odd_front_Even.h"
+#include "src/P14_FindKthToTailOfList.h"
+#include "src/P15_ReverseList.h"
+#include "src/P16_MergeTwoOrderedList.h"
 
-#include <stdio.h>
-#include <math.h>
 using namespace std;
 
 int main() {
-    P13_ReOrderArray_Odd_front_Even G;
+    P16_MergeTwoOrderedList G;
     G.test();
     return 0;
 }

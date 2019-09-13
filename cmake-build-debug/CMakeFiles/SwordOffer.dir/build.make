@@ -238,6 +238,45 @@ CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P13_ReOrderArray_Odd_front_Even.cpp -o CMakeFiles\SwordOffer.dir\src\P13_ReOrderArray_Odd_front_Even.cpp.s
 
+CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj: ../src/P14_FindKthToTailOfList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P14_FindKthToTailOfList.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P14_FindKthToTailOfList.cpp
+
+CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P14_FindKthToTailOfList.cpp > CMakeFiles\SwordOffer.dir\src\P14_FindKthToTailOfList.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P14_FindKthToTailOfList.cpp -o CMakeFiles\SwordOffer.dir\src\P14_FindKthToTailOfList.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj: ../src/P15_ReverseList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P15_ReverseList.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P15_ReverseList.cpp
+
+CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P15_ReverseList.cpp > CMakeFiles\SwordOffer.dir\src\P15_ReverseList.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P15_ReverseList.cpp -o CMakeFiles\SwordOffer.dir\src\P15_ReverseList.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj: ../src/P16_MergeTwoOrderedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P16_MergeTwoOrderedList.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P16_MergeTwoOrderedList.cpp
+
+CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P16_MergeTwoOrderedList.cpp > CMakeFiles\SwordOffer.dir\src\P16_MergeTwoOrderedList.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P16_MergeTwoOrderedList.cpp -o CMakeFiles\SwordOffer.dir\src\P16_MergeTwoOrderedList.cpp.s
+
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
@@ -253,7 +292,10 @@ SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
@@ -272,11 +314,14 @@ SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P10_MatrixCoverage.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P11_NumOf_1_InTheBinary.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P12_Numerical_Integer_Power.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P13_ReOrderArray_Odd_front_Even.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
