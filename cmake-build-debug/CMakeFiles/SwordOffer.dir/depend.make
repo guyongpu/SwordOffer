@@ -19,6 +19,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P13_ReOrderArray_Odd_front_Even.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P14_FindKthToTailOfList.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P15_ReverseList.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P16_MergeTwoOrderedList.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P17_HasSubtree.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -30,6 +31,7 @@ CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj: ../src/P00_Co
 CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj: ../src/P03_PrintListFromTailToHead.cpp
 CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj: ../src/P03_PrintListFromTailToHead.h
 
+CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj: ../src/P00_CommonHead.h
 CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj: ../src/P04_ReConstructBinaryTree.cpp
 CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj: ../src/P04_ReConstructBinaryTree.h
 
@@ -71,4 +73,8 @@ CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj: ../src/P15_ReverseList.h
 CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj: ../src/P00_CommonHead.h
 CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj: ../src/P16_MergeTwoOrderedList.cpp
 CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj: ../src/P16_MergeTwoOrderedList.h
+
+CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.obj: ../src/P00_CommonHead.h
+CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.obj: ../src/P17_HasSubtree.cpp
+CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.obj: ../src/P17_HasSubtree.h
 

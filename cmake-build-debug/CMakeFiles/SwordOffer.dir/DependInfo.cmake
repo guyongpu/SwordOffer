@@ -21,6 +21,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P14_FindKthToTailOfList.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P15_ReverseList.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P16_MergeTwoOrderedList.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P17_HasSubtree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

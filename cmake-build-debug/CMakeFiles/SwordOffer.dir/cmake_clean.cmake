@@ -16,6 +16,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"

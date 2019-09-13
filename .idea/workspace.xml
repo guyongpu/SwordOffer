@@ -12,16 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P00_CommonHead.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P14_FindKthToTailOfList.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P14_FindKthToTailOfList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P15_ReverseList.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P15_ReverseList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P16_MergeTwoOrderedList.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P16_MergeTwoOrderedList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P17_HasSubtree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P17_HasSubtree.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/DependInfo.cmake" afterDir="false" />
@@ -34,12 +28,17 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P03_PrintListFromTailToHead.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P04_ReConstructBinaryTree.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P14_FindKthToTailOfList.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P15_ReverseList.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P03_PrintListFromTailToHead.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/P03_PrintListFromTailToHead.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P00_CommonHead.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/P00_CommonHead.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P04_ReConstructBinaryTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/P04_ReConstructBinaryTree.h" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +97,7 @@
       <workItem from="1568077266545" duration="27036000" />
       <workItem from="1568163624494" duration="29829000" />
       <workItem from="1568249845423" duration="22777000" />
-      <workItem from="1568336395816" duration="10631000" />
+      <workItem from="1568336395816" duration="19518000" />
     </task>
     <servers />
   </component>

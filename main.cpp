@@ -16,11 +16,12 @@
 #include "src/P14_FindKthToTailOfList.h"
 #include "src/P15_ReverseList.h"
 #include "src/P16_MergeTwoOrderedList.h"
+#include "src/P17_HasSubtree.h"
 
 using namespace std;
 
 int main() {
-    P16_MergeTwoOrderedList G;
+    P17_HasSubtree G;
     G.test();
     return 0;
 }

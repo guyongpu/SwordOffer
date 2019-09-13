@@ -581,6 +581,33 @@ src/P16_MergeTwoOrderedList.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.s
 .PHONY : src/P16_MergeTwoOrderedList.cpp.s
 
+src/P17_HasSubtree.obj: src/P17_HasSubtree.cpp.obj
+
+.PHONY : src/P17_HasSubtree.obj
+
+# target to build an object file
+src/P17_HasSubtree.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.obj
+.PHONY : src/P17_HasSubtree.cpp.obj
+
+src/P17_HasSubtree.i: src/P17_HasSubtree.cpp.i
+
+.PHONY : src/P17_HasSubtree.i
+
+# target to preprocess a source file
+src/P17_HasSubtree.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.i
+.PHONY : src/P17_HasSubtree.cpp.i
+
+src/P17_HasSubtree.s: src/P17_HasSubtree.cpp.s
+
+.PHONY : src/P17_HasSubtree.s
+
+# target to generate assembly for a file
+src/P17_HasSubtree.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.s
+.PHONY : src/P17_HasSubtree.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -641,6 +668,9 @@ help:
 	@echo ... src/P16_MergeTwoOrderedList.obj
 	@echo ... src/P16_MergeTwoOrderedList.i
 	@echo ... src/P16_MergeTwoOrderedList.s
+	@echo ... src/P17_HasSubtree.obj
+	@echo ... src/P17_HasSubtree.i
+	@echo ... src/P17_HasSubtree.s
 .PHONY : help
 
 
