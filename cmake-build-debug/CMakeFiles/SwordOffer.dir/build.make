@@ -394,6 +394,32 @@ CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P25_ColneOfComplexList.cpp -o CMakeFiles\SwordOffer.dir\src\P25_ColneOfComplexList.cpp.s
 
+CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj: ../src/P26_SearchTree_To_BidireList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P26_SearchTree_To_BidireList.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P26_SearchTree_To_BidireList.cpp
+
+CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P26_SearchTree_To_BidireList.cpp > CMakeFiles\SwordOffer.dir\src\P26_SearchTree_To_BidireList.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P26_SearchTree_To_BidireList.cpp -o CMakeFiles\SwordOffer.dir\src\P26_SearchTree_To_BidireList.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj: ../src/P27_StringPermutation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P27_StringPermutation.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P27_StringPermutation.cpp
+
+CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P27_StringPermutation.cpp > CMakeFiles\SwordOffer.dir\src\P27_StringPermutation.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P27_StringPermutation.cpp -o CMakeFiles\SwordOffer.dir\src\P27_StringPermutation.cpp.s
+
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
@@ -421,7 +447,9 @@ SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
@@ -452,11 +480,13 @@ SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

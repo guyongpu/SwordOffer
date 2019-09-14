@@ -24,4 +24,12 @@ struct  TreeNode {
     TreeNode(int x): val(x), left(NULL), right(NULL){};
 };
 
+//复杂链表子结构
+struct RandomListNode {
+    int label;
+    struct RandomListNode *next, *random;
+    RandomListNode (int x) :
+        label(x), next(NULL), random(NULL) {};
+};
+
 #endif //SWORDOFFER_P00_COMMONHEAD_H

@@ -27,6 +27,8 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P21_IsPopOrderOfStack.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P22_PrintFromTopToBottom.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P23_VerifySquenceOfBST.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P24_FindPathOfTree.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P25_ColneOfComplexList.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P26_SearchTree_To_BidireList.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -108,4 +110,12 @@ CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj: ../src/P23_VerifyS
 CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj: ../src/P00_CommonHead.h
 CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj: ../src/P24_FindPathOfTree.cpp
 CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj: ../src/P24_FindPathOfTree.h
+
+CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj: ../src/P00_CommonHead.h
+CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj: ../src/P25_ColneOfComplexList.cpp
+CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj: ../src/P25_ColneOfComplexList.h
+
+CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj: ../src/P00_CommonHead.h
+CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj: ../src/P26_SearchTree_To_BidireList.cpp
+CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj: ../src/P26_SearchTree_To_BidireList.h
 

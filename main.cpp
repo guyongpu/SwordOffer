@@ -24,11 +24,14 @@
 #include "src/P22_PrintFromTopToBottom.h"
 #include "src/P23_VerifySquenceOfBST.h"
 #include "src/P24_FindPathOfTree.h"
+#include "src/P25_ColneOfComplexList.h"
+#include "src/P26_SearchTree_To_BidireList.h"
+#include "src/P27_StringPermutation.h"
 
 using namespace std;
 
 int main() {
-    P24_FindPathOfTree G;
+    P27_StringPermutation G;
     G.test();
     return 0;
 }

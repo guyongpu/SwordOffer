@@ -28,6 +28,8 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P22_PrintFromTopToBottom.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P23_VerifySquenceOfBST.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P24_FindPathOfTree.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P25_ColneOfComplexList.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P26_SearchTree_To_BidireList.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -109,3 +111,11 @@ CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P24_FindPathOfTree.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P24_FindPathOfTree.h
+CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P25_ColneOfComplexList.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P25_ColneOfComplexList.h
+CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P26_SearchTree_To_BidireList.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P26_SearchTree_To_BidireList.h

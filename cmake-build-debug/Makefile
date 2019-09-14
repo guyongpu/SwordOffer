@@ -824,6 +824,60 @@ src/P25_ColneOfComplexList.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.s
 .PHONY : src/P25_ColneOfComplexList.cpp.s
 
+src/P26_SearchTree_To_BidireList.obj: src/P26_SearchTree_To_BidireList.cpp.obj
+
+.PHONY : src/P26_SearchTree_To_BidireList.obj
+
+# target to build an object file
+src/P26_SearchTree_To_BidireList.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj
+.PHONY : src/P26_SearchTree_To_BidireList.cpp.obj
+
+src/P26_SearchTree_To_BidireList.i: src/P26_SearchTree_To_BidireList.cpp.i
+
+.PHONY : src/P26_SearchTree_To_BidireList.i
+
+# target to preprocess a source file
+src/P26_SearchTree_To_BidireList.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.i
+.PHONY : src/P26_SearchTree_To_BidireList.cpp.i
+
+src/P26_SearchTree_To_BidireList.s: src/P26_SearchTree_To_BidireList.cpp.s
+
+.PHONY : src/P26_SearchTree_To_BidireList.s
+
+# target to generate assembly for a file
+src/P26_SearchTree_To_BidireList.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.s
+.PHONY : src/P26_SearchTree_To_BidireList.cpp.s
+
+src/P27_StringPermutation.obj: src/P27_StringPermutation.cpp.obj
+
+.PHONY : src/P27_StringPermutation.obj
+
+# target to build an object file
+src/P27_StringPermutation.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj
+.PHONY : src/P27_StringPermutation.cpp.obj
+
+src/P27_StringPermutation.i: src/P27_StringPermutation.cpp.i
+
+.PHONY : src/P27_StringPermutation.i
+
+# target to preprocess a source file
+src/P27_StringPermutation.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.i
+.PHONY : src/P27_StringPermutation.cpp.i
+
+src/P27_StringPermutation.s: src/P27_StringPermutation.cpp.s
+
+.PHONY : src/P27_StringPermutation.s
+
+# target to generate assembly for a file
+src/P27_StringPermutation.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.s
+.PHONY : src/P27_StringPermutation.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -911,6 +965,12 @@ help:
 	@echo ... src/P25_ColneOfComplexList.obj
 	@echo ... src/P25_ColneOfComplexList.i
 	@echo ... src/P25_ColneOfComplexList.s
+	@echo ... src/P26_SearchTree_To_BidireList.obj
+	@echo ... src/P26_SearchTree_To_BidireList.i
+	@echo ... src/P26_SearchTree_To_BidireList.s
+	@echo ... src/P27_StringPermutation.obj
+	@echo ... src/P27_StringPermutation.i
+	@echo ... src/P27_StringPermutation.s
 .PHONY : help
 
 
