@@ -23,6 +23,11 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P17_HasSubtree.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P18_MirrorTree.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P19_PrintMatrixClockwise.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P20_Stack_FuncMin.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P21_IsPopOrderOfStack.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P22_PrintFromTopToBottom.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P23_VerifySquenceOfBST.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P24_FindPathOfTree.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -87,3 +92,20 @@ CMakeFiles/SwordOffer.dir/src/P18_MirrorTree.cpp.obj
 CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P19_PrintMatrixClockwise.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P19_PrintMatrixClockwise.h
+CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P20_Stack_FuncMin.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P20_Stack_FuncMin.h
+CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P21_IsPopOrderOfStack.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P21_IsPopOrderOfStack.h
+CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P22_PrintFromTopToBottom.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P22_PrintFromTopToBottom.h
+CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P23_VerifySquenceOfBST.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P23_VerifySquenceOfBST.h
+CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P24_FindPathOfTree.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P24_FindPathOfTree.h

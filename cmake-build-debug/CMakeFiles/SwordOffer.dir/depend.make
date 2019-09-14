@@ -22,6 +22,11 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P16_MergeTwoOrderedList.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P17_HasSubtree.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P18_MirrorTree.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P19_PrintMatrixClockwise.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P20_Stack_FuncMin.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P21_IsPopOrderOfStack.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P22_PrintFromTopToBottom.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P23_VerifySquenceOfBST.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P24_FindPathOfTree.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -86,4 +91,21 @@ CMakeFiles/SwordOffer.dir/src/P18_MirrorTree.cpp.obj: ../src/P18_MirrorTree.h
 
 CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.obj: ../src/P19_PrintMatrixClockwise.cpp
 CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.obj: ../src/P19_PrintMatrixClockwise.h
+
+CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj: ../src/P20_Stack_FuncMin.cpp
+CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj: ../src/P20_Stack_FuncMin.h
+
+CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj: ../src/P21_IsPopOrderOfStack.cpp
+CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj: ../src/P21_IsPopOrderOfStack.h
+
+CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj: ../src/P00_CommonHead.h
+CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj: ../src/P22_PrintFromTopToBottom.cpp
+CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj: ../src/P22_PrintFromTopToBottom.h
+
+CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj: ../src/P23_VerifySquenceOfBST.cpp
+CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj: ../src/P23_VerifySquenceOfBST.h
+
+CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj: ../src/P00_CommonHead.h
+CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj: ../src/P24_FindPathOfTree.cpp
+CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj: ../src/P24_FindPathOfTree.h
 

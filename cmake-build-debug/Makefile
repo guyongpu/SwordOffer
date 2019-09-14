@@ -662,6 +662,141 @@ src/P19_PrintMatrixClockwise.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.s
 .PHONY : src/P19_PrintMatrixClockwise.cpp.s
 
+src/P20_Stack_FuncMin.obj: src/P20_Stack_FuncMin.cpp.obj
+
+.PHONY : src/P20_Stack_FuncMin.obj
+
+# target to build an object file
+src/P20_Stack_FuncMin.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj
+.PHONY : src/P20_Stack_FuncMin.cpp.obj
+
+src/P20_Stack_FuncMin.i: src/P20_Stack_FuncMin.cpp.i
+
+.PHONY : src/P20_Stack_FuncMin.i
+
+# target to preprocess a source file
+src/P20_Stack_FuncMin.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.i
+.PHONY : src/P20_Stack_FuncMin.cpp.i
+
+src/P20_Stack_FuncMin.s: src/P20_Stack_FuncMin.cpp.s
+
+.PHONY : src/P20_Stack_FuncMin.s
+
+# target to generate assembly for a file
+src/P20_Stack_FuncMin.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.s
+.PHONY : src/P20_Stack_FuncMin.cpp.s
+
+src/P21_IsPopOrderOfStack.obj: src/P21_IsPopOrderOfStack.cpp.obj
+
+.PHONY : src/P21_IsPopOrderOfStack.obj
+
+# target to build an object file
+src/P21_IsPopOrderOfStack.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj
+.PHONY : src/P21_IsPopOrderOfStack.cpp.obj
+
+src/P21_IsPopOrderOfStack.i: src/P21_IsPopOrderOfStack.cpp.i
+
+.PHONY : src/P21_IsPopOrderOfStack.i
+
+# target to preprocess a source file
+src/P21_IsPopOrderOfStack.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.i
+.PHONY : src/P21_IsPopOrderOfStack.cpp.i
+
+src/P21_IsPopOrderOfStack.s: src/P21_IsPopOrderOfStack.cpp.s
+
+.PHONY : src/P21_IsPopOrderOfStack.s
+
+# target to generate assembly for a file
+src/P21_IsPopOrderOfStack.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.s
+.PHONY : src/P21_IsPopOrderOfStack.cpp.s
+
+src/P22_PrintFromTopToBottom.obj: src/P22_PrintFromTopToBottom.cpp.obj
+
+.PHONY : src/P22_PrintFromTopToBottom.obj
+
+# target to build an object file
+src/P22_PrintFromTopToBottom.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj
+.PHONY : src/P22_PrintFromTopToBottom.cpp.obj
+
+src/P22_PrintFromTopToBottom.i: src/P22_PrintFromTopToBottom.cpp.i
+
+.PHONY : src/P22_PrintFromTopToBottom.i
+
+# target to preprocess a source file
+src/P22_PrintFromTopToBottom.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.i
+.PHONY : src/P22_PrintFromTopToBottom.cpp.i
+
+src/P22_PrintFromTopToBottom.s: src/P22_PrintFromTopToBottom.cpp.s
+
+.PHONY : src/P22_PrintFromTopToBottom.s
+
+# target to generate assembly for a file
+src/P22_PrintFromTopToBottom.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.s
+.PHONY : src/P22_PrintFromTopToBottom.cpp.s
+
+src/P23_VerifySquenceOfBST.obj: src/P23_VerifySquenceOfBST.cpp.obj
+
+.PHONY : src/P23_VerifySquenceOfBST.obj
+
+# target to build an object file
+src/P23_VerifySquenceOfBST.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj
+.PHONY : src/P23_VerifySquenceOfBST.cpp.obj
+
+src/P23_VerifySquenceOfBST.i: src/P23_VerifySquenceOfBST.cpp.i
+
+.PHONY : src/P23_VerifySquenceOfBST.i
+
+# target to preprocess a source file
+src/P23_VerifySquenceOfBST.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.i
+.PHONY : src/P23_VerifySquenceOfBST.cpp.i
+
+src/P23_VerifySquenceOfBST.s: src/P23_VerifySquenceOfBST.cpp.s
+
+.PHONY : src/P23_VerifySquenceOfBST.s
+
+# target to generate assembly for a file
+src/P23_VerifySquenceOfBST.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.s
+.PHONY : src/P23_VerifySquenceOfBST.cpp.s
+
+src/P24_FindPathOfTree.obj: src/P24_FindPathOfTree.cpp.obj
+
+.PHONY : src/P24_FindPathOfTree.obj
+
+# target to build an object file
+src/P24_FindPathOfTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj
+.PHONY : src/P24_FindPathOfTree.cpp.obj
+
+src/P24_FindPathOfTree.i: src/P24_FindPathOfTree.cpp.i
+
+.PHONY : src/P24_FindPathOfTree.i
+
+# target to preprocess a source file
+src/P24_FindPathOfTree.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.i
+.PHONY : src/P24_FindPathOfTree.cpp.i
+
+src/P24_FindPathOfTree.s: src/P24_FindPathOfTree.cpp.s
+
+.PHONY : src/P24_FindPathOfTree.s
+
+# target to generate assembly for a file
+src/P24_FindPathOfTree.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.s
+.PHONY : src/P24_FindPathOfTree.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -731,6 +866,21 @@ help:
 	@echo ... src/P19_PrintMatrixClockwise.obj
 	@echo ... src/P19_PrintMatrixClockwise.i
 	@echo ... src/P19_PrintMatrixClockwise.s
+	@echo ... src/P20_Stack_FuncMin.obj
+	@echo ... src/P20_Stack_FuncMin.i
+	@echo ... src/P20_Stack_FuncMin.s
+	@echo ... src/P21_IsPopOrderOfStack.obj
+	@echo ... src/P21_IsPopOrderOfStack.i
+	@echo ... src/P21_IsPopOrderOfStack.s
+	@echo ... src/P22_PrintFromTopToBottom.obj
+	@echo ... src/P22_PrintFromTopToBottom.i
+	@echo ... src/P22_PrintFromTopToBottom.s
+	@echo ... src/P23_VerifySquenceOfBST.obj
+	@echo ... src/P23_VerifySquenceOfBST.i
+	@echo ... src/P23_VerifySquenceOfBST.s
+	@echo ... src/P24_FindPathOfTree.obj
+	@echo ... src/P24_FindPathOfTree.i
+	@echo ... src/P24_FindPathOfTree.s
 .PHONY : help
 
 

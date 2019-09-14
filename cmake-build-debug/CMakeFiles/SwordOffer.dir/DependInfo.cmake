@@ -24,6 +24,11 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P17_HasSubtree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P18_MirrorTree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P18_MirrorTree.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P19_PrintMatrixClockwise.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P20_Stack_FuncMin.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P21_IsPopOrderOfStack.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P22_PrintFromTopToBottom.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P23_VerifySquenceOfBST.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P24_FindPathOfTree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -316,6 +316,71 @@ CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P19_PrintMatrixClockwise.cpp -o CMakeFiles\SwordOffer.dir\src\P19_PrintMatrixClockwise.cpp.s
 
+CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj: ../src/P20_Stack_FuncMin.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P20_Stack_FuncMin.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P20_Stack_FuncMin.cpp
+
+CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P20_Stack_FuncMin.cpp > CMakeFiles\SwordOffer.dir\src\P20_Stack_FuncMin.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P20_Stack_FuncMin.cpp -o CMakeFiles\SwordOffer.dir\src\P20_Stack_FuncMin.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj: ../src/P21_IsPopOrderOfStack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P21_IsPopOrderOfStack.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P21_IsPopOrderOfStack.cpp
+
+CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P21_IsPopOrderOfStack.cpp > CMakeFiles\SwordOffer.dir\src\P21_IsPopOrderOfStack.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P21_IsPopOrderOfStack.cpp -o CMakeFiles\SwordOffer.dir\src\P21_IsPopOrderOfStack.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj: ../src/P22_PrintFromTopToBottom.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P22_PrintFromTopToBottom.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P22_PrintFromTopToBottom.cpp
+
+CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P22_PrintFromTopToBottom.cpp > CMakeFiles\SwordOffer.dir\src\P22_PrintFromTopToBottom.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P22_PrintFromTopToBottom.cpp -o CMakeFiles\SwordOffer.dir\src\P22_PrintFromTopToBottom.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj: ../src/P23_VerifySquenceOfBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P23_VerifySquenceOfBST.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P23_VerifySquenceOfBST.cpp
+
+CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P23_VerifySquenceOfBST.cpp > CMakeFiles\SwordOffer.dir\src\P23_VerifySquenceOfBST.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P23_VerifySquenceOfBST.cpp -o CMakeFiles\SwordOffer.dir\src\P23_VerifySquenceOfBST.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj: ../src/P24_FindPathOfTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P24_FindPathOfTree.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P24_FindPathOfTree.cpp
+
+CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P24_FindPathOfTree.cpp > CMakeFiles\SwordOffer.dir\src\P24_FindPathOfTree.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P24_FindPathOfTree.cpp -o CMakeFiles\SwordOffer.dir\src\P24_FindPathOfTree.cpp.s
+
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
@@ -337,7 +402,12 @@ SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P18_MirrorTree.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
@@ -362,11 +432,16 @@ SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P16_MergeTwoOrderedList.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P17_HasSubtree.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P18_MirrorTree.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P19_PrintMatrixClockwise.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P20_Stack_FuncMin.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P21_IsPopOrderOfStack.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

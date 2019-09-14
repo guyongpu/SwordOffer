@@ -19,11 +19,16 @@
 #include "src/P17_HasSubtree.h"
 #include "src/P18_MirrorTree.h"
 #include "src/P19_PrintMatrixClockwise.h"
+#include "src/P20_Stack_FuncMin.h"
+#include "src/P21_IsPopOrderOfStack.h"
+#include "src/P22_PrintFromTopToBottom.h"
+#include "src/P23_VerifySquenceOfBST.h"
+#include "src/P24_FindPathOfTree.h"
 
 using namespace std;
 
 int main() {
-    P19_PrintMatrixClockwise G;
+    P24_FindPathOfTree G;
     G.test();
     return 0;
 }
