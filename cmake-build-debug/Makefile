@@ -797,6 +797,33 @@ src/P24_FindPathOfTree.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.s
 .PHONY : src/P24_FindPathOfTree.cpp.s
 
+src/P25_ColneOfComplexList.obj: src/P25_ColneOfComplexList.cpp.obj
+
+.PHONY : src/P25_ColneOfComplexList.obj
+
+# target to build an object file
+src/P25_ColneOfComplexList.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj
+.PHONY : src/P25_ColneOfComplexList.cpp.obj
+
+src/P25_ColneOfComplexList.i: src/P25_ColneOfComplexList.cpp.i
+
+.PHONY : src/P25_ColneOfComplexList.i
+
+# target to preprocess a source file
+src/P25_ColneOfComplexList.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.i
+.PHONY : src/P25_ColneOfComplexList.cpp.i
+
+src/P25_ColneOfComplexList.s: src/P25_ColneOfComplexList.cpp.s
+
+.PHONY : src/P25_ColneOfComplexList.s
+
+# target to generate assembly for a file
+src/P25_ColneOfComplexList.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.s
+.PHONY : src/P25_ColneOfComplexList.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -881,6 +908,9 @@ help:
 	@echo ... src/P24_FindPathOfTree.obj
 	@echo ... src/P24_FindPathOfTree.i
 	@echo ... src/P24_FindPathOfTree.s
+	@echo ... src/P25_ColneOfComplexList.obj
+	@echo ... src/P25_ColneOfComplexList.i
+	@echo ... src/P25_ColneOfComplexList.s
 .PHONY : help
 
 

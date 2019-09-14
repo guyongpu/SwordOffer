@@ -230,6 +230,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P24_FindPathOfTree.h">
 			<Option target="SwordOffer"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P25_ColneOfComplexList.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P25_ColneOfComplexList.h">
+			<Option target="SwordOffer"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

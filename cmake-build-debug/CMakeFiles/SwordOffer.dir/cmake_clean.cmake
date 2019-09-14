@@ -24,6 +24,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P22_PrintFromTopToBottom.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P23_VerifySquenceOfBST.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P24_FindPathOfTree.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"
