@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.cpp
-P28_MoreThanHalfNumInArray.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P29_MinimumKNmber.cpp
+P29_MinimumKNmber.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P29_MinimumKNmber.h
+functional
+-
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P29_MinimumKNmber.h
 iostream
 -
 vector
+-
+algorithm
 -
 

@@ -28,11 +28,12 @@
 #include "src/P26_SearchTree_To_BidireList.h"
 #include "src/P27_StringPermutation.h"
 #include "src/P28_MoreThanHalfNumInArray.h"
+#include "src/P29_MinimumKNmber.h"
 
 using namespace std;
 
 int main() {
-    P28_MoreThanHalfNumInArray G;
+    P29_MinimumKNmber G;
     G.test();
     return 0;
 }

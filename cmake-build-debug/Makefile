@@ -905,6 +905,33 @@ src/P28_MoreThanHalfNumInArray.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.s
 .PHONY : src/P28_MoreThanHalfNumInArray.cpp.s
 
+src/P29_MinimumKNmber.obj: src/P29_MinimumKNmber.cpp.obj
+
+.PHONY : src/P29_MinimumKNmber.obj
+
+# target to build an object file
+src/P29_MinimumKNmber.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.obj
+.PHONY : src/P29_MinimumKNmber.cpp.obj
+
+src/P29_MinimumKNmber.i: src/P29_MinimumKNmber.cpp.i
+
+.PHONY : src/P29_MinimumKNmber.i
+
+# target to preprocess a source file
+src/P29_MinimumKNmber.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.i
+.PHONY : src/P29_MinimumKNmber.cpp.i
+
+src/P29_MinimumKNmber.s: src/P29_MinimumKNmber.cpp.s
+
+.PHONY : src/P29_MinimumKNmber.s
+
+# target to generate assembly for a file
+src/P29_MinimumKNmber.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.s
+.PHONY : src/P29_MinimumKNmber.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1001,6 +1028,9 @@ help:
 	@echo ... src/P28_MoreThanHalfNumInArray.obj
 	@echo ... src/P28_MoreThanHalfNumInArray.i
 	@echo ... src/P28_MoreThanHalfNumInArray.s
+	@echo ... src/P29_MinimumKNmber.obj
+	@echo ... src/P29_MinimumKNmber.i
+	@echo ... src/P29_MinimumKNmber.s
 .PHONY : help
 
 

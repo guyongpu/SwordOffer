@@ -28,6 +28,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"

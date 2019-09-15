@@ -31,6 +31,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P25_ColneOfComplexList.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P26_SearchTree_To_BidireList.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P27_StringPermutation.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P28_MoreThanHalfNumInArray.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P29_MinimumKNmber.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -126,4 +127,7 @@ CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj: ../src/P27_StringPe
 
 CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.obj: ../src/P28_MoreThanHalfNumInArray.cpp
 CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.obj: ../src/P28_MoreThanHalfNumInArray.h
+
+CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.obj: ../src/P29_MinimumKNmber.cpp
+CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.obj: ../src/P29_MinimumKNmber.h
 
