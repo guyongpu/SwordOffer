@@ -878,6 +878,33 @@ src/P27_StringPermutation.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.s
 .PHONY : src/P27_StringPermutation.cpp.s
 
+src/P28_MoreThanHalfNumInArray.obj: src/P28_MoreThanHalfNumInArray.cpp.obj
+
+.PHONY : src/P28_MoreThanHalfNumInArray.obj
+
+# target to build an object file
+src/P28_MoreThanHalfNumInArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.obj
+.PHONY : src/P28_MoreThanHalfNumInArray.cpp.obj
+
+src/P28_MoreThanHalfNumInArray.i: src/P28_MoreThanHalfNumInArray.cpp.i
+
+.PHONY : src/P28_MoreThanHalfNumInArray.i
+
+# target to preprocess a source file
+src/P28_MoreThanHalfNumInArray.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.i
+.PHONY : src/P28_MoreThanHalfNumInArray.cpp.i
+
+src/P28_MoreThanHalfNumInArray.s: src/P28_MoreThanHalfNumInArray.cpp.s
+
+.PHONY : src/P28_MoreThanHalfNumInArray.s
+
+# target to generate assembly for a file
+src/P28_MoreThanHalfNumInArray.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.s
+.PHONY : src/P28_MoreThanHalfNumInArray.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -971,6 +998,9 @@ help:
 	@echo ... src/P27_StringPermutation.obj
 	@echo ... src/P27_StringPermutation.i
 	@echo ... src/P27_StringPermutation.s
+	@echo ... src/P28_MoreThanHalfNumInArray.obj
+	@echo ... src/P28_MoreThanHalfNumInArray.i
+	@echo ... src/P28_MoreThanHalfNumInArray.s
 .PHONY : help
 
 

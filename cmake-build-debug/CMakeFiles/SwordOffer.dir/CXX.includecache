@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.cpp
+P28_MoreThanHalfNumInArray.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.h
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.h
 iostream
 -
-
-E:/OneDrive/CodingInterview/SwordOffer/src/P26_SearchTree_To_BidireList.cpp
-P26_SearchTree_To_BidireList.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P26_SearchTree_To_BidireList.h
-
-E:/OneDrive/CodingInterview/SwordOffer/src/P26_SearchTree_To_BidireList.h
-iostream
+vector
 -
-P00_CommonHead.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
 

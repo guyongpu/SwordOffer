@@ -248,6 +248,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P27_StringPermutation.h">
 			<Option target="SwordOffer"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.h">
+			<Option target="SwordOffer"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

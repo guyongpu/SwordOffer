@@ -27,11 +27,12 @@
 #include "src/P25_ColneOfComplexList.h"
 #include "src/P26_SearchTree_To_BidireList.h"
 #include "src/P27_StringPermutation.h"
+#include "src/P28_MoreThanHalfNumInArray.h"
 
 using namespace std;
 
 int main() {
-    P27_StringPermutation G;
+    P28_MoreThanHalfNumInArray G;
     G.test();
     return 0;
 }

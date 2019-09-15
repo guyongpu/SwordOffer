@@ -32,6 +32,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P25_ColneOfComplexList.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P25_ColneOfComplexList.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P26_SearchTree_To_BidireList.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P26_SearchTree_To_BidireList.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P27_StringPermutation.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
