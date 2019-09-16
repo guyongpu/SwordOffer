@@ -932,6 +932,114 @@ src/P29_MinimumKNmber.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.s
 .PHONY : src/P29_MinimumKNmber.cpp.s
 
+src/P30_FindGreatestSumOfSubArray.obj: src/P30_FindGreatestSumOfSubArray.cpp.obj
+
+.PHONY : src/P30_FindGreatestSumOfSubArray.obj
+
+# target to build an object file
+src/P30_FindGreatestSumOfSubArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P30_FindGreatestSumOfSubArray.cpp.obj
+.PHONY : src/P30_FindGreatestSumOfSubArray.cpp.obj
+
+src/P30_FindGreatestSumOfSubArray.i: src/P30_FindGreatestSumOfSubArray.cpp.i
+
+.PHONY : src/P30_FindGreatestSumOfSubArray.i
+
+# target to preprocess a source file
+src/P30_FindGreatestSumOfSubArray.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P30_FindGreatestSumOfSubArray.cpp.i
+.PHONY : src/P30_FindGreatestSumOfSubArray.cpp.i
+
+src/P30_FindGreatestSumOfSubArray.s: src/P30_FindGreatestSumOfSubArray.cpp.s
+
+.PHONY : src/P30_FindGreatestSumOfSubArray.s
+
+# target to generate assembly for a file
+src/P30_FindGreatestSumOfSubArray.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P30_FindGreatestSumOfSubArray.cpp.s
+.PHONY : src/P30_FindGreatestSumOfSubArray.cpp.s
+
+src/P31_NumberOf1Between1AndN.obj: src/P31_NumberOf1Between1AndN.cpp.obj
+
+.PHONY : src/P31_NumberOf1Between1AndN.obj
+
+# target to build an object file
+src/P31_NumberOf1Between1AndN.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.obj
+.PHONY : src/P31_NumberOf1Between1AndN.cpp.obj
+
+src/P31_NumberOf1Between1AndN.i: src/P31_NumberOf1Between1AndN.cpp.i
+
+.PHONY : src/P31_NumberOf1Between1AndN.i
+
+# target to preprocess a source file
+src/P31_NumberOf1Between1AndN.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.i
+.PHONY : src/P31_NumberOf1Between1AndN.cpp.i
+
+src/P31_NumberOf1Between1AndN.s: src/P31_NumberOf1Between1AndN.cpp.s
+
+.PHONY : src/P31_NumberOf1Between1AndN.s
+
+# target to generate assembly for a file
+src/P31_NumberOf1Between1AndN.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.s
+.PHONY : src/P31_NumberOf1Between1AndN.cpp.s
+
+src/P32_PrintMinNumber.obj: src/P32_PrintMinNumber.cpp.obj
+
+.PHONY : src/P32_PrintMinNumber.obj
+
+# target to build an object file
+src/P32_PrintMinNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj
+.PHONY : src/P32_PrintMinNumber.cpp.obj
+
+src/P32_PrintMinNumber.i: src/P32_PrintMinNumber.cpp.i
+
+.PHONY : src/P32_PrintMinNumber.i
+
+# target to preprocess a source file
+src/P32_PrintMinNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.i
+.PHONY : src/P32_PrintMinNumber.cpp.i
+
+src/P32_PrintMinNumber.s: src/P32_PrintMinNumber.cpp.s
+
+.PHONY : src/P32_PrintMinNumber.s
+
+# target to generate assembly for a file
+src/P32_PrintMinNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.s
+.PHONY : src/P32_PrintMinNumber.cpp.s
+
+src/P33_GetUglyNumber.obj: src/P33_GetUglyNumber.cpp.obj
+
+.PHONY : src/P33_GetUglyNumber.obj
+
+# target to build an object file
+src/P33_GetUglyNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj
+.PHONY : src/P33_GetUglyNumber.cpp.obj
+
+src/P33_GetUglyNumber.i: src/P33_GetUglyNumber.cpp.i
+
+.PHONY : src/P33_GetUglyNumber.i
+
+# target to preprocess a source file
+src/P33_GetUglyNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.i
+.PHONY : src/P33_GetUglyNumber.cpp.i
+
+src/P33_GetUglyNumber.s: src/P33_GetUglyNumber.cpp.s
+
+.PHONY : src/P33_GetUglyNumber.s
+
+# target to generate assembly for a file
+src/P33_GetUglyNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.s
+.PHONY : src/P33_GetUglyNumber.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1031,6 +1139,18 @@ help:
 	@echo ... src/P29_MinimumKNmber.obj
 	@echo ... src/P29_MinimumKNmber.i
 	@echo ... src/P29_MinimumKNmber.s
+	@echo ... src/P30_FindGreatestSumOfSubArray.obj
+	@echo ... src/P30_FindGreatestSumOfSubArray.i
+	@echo ... src/P30_FindGreatestSumOfSubArray.s
+	@echo ... src/P31_NumberOf1Between1AndN.obj
+	@echo ... src/P31_NumberOf1Between1AndN.i
+	@echo ... src/P31_NumberOf1Between1AndN.s
+	@echo ... src/P32_PrintMinNumber.obj
+	@echo ... src/P32_PrintMinNumber.i
+	@echo ... src/P32_PrintMinNumber.s
+	@echo ... src/P33_GetUglyNumber.obj
+	@echo ... src/P33_GetUglyNumber.i
+	@echo ... src/P33_GetUglyNumber.s
 .PHONY : help
 
 

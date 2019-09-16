@@ -12,7 +12,7 @@
  * 思路：将字符串分为两部分，第一个字符、其后面的所有字符。然后用第一个字符和后面的所有字符逐个交换。
  */
 
-bool cmp(string a, string b)
+bool cmp_P27(string a, string b)
 {
     return a < b;
 }
@@ -25,7 +25,7 @@ vector<string> P27_StringPermutation::Permutation(string str) {
         Permutation_Sub(str, result, begin);
     }
     //字典排序处理,升序
-    sort(result.begin(), result.end(), cmp);
+    sort(result.begin(), result.end(), cmp_P27);
     return result;
 }
 

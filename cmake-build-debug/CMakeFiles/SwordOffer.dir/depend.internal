@@ -33,6 +33,10 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P27_StringPermutation.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P29_MinimumKNmber.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P30_FindGreatestSumOfSubArray.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P31_NumberOf1Between1AndN.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P32_PrintMinNumber.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P33_GetUglyNumber.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -131,3 +135,15 @@ CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.obj
 CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P29_MinimumKNmber.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P29_MinimumKNmber.h
+CMakeFiles/SwordOffer.dir/src/P30_FindGreatestSumOfSubArray.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P30_FindGreatestSumOfSubArray.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P30_FindGreatestSumOfSubArray.h
+CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P31_NumberOf1Between1AndN.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P31_NumberOf1Between1AndN.h
+CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P32_PrintMinNumber.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P32_PrintMinNumber.h
+CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P33_GetUglyNumber.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P33_GetUglyNumber.h

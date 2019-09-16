@@ -34,6 +34,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P27_StringPermutation.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P27_StringPermutation.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P28_MoreThanHalfNumInArray.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P29_MinimumKNmber.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P30_FindGreatestSumOfSubArray.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P30_FindGreatestSumOfSubArray.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P31_NumberOf1Between1AndN.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P32_PrintMinNumber.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P33_GetUglyNumber.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

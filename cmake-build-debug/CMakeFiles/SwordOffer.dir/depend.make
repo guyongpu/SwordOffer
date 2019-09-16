@@ -32,6 +32,10 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P26_SearchTree_To_BidireList.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P27_StringPermutation.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P28_MoreThanHalfNumInArray.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P29_MinimumKNmber.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P30_FindGreatestSumOfSubArray.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P31_NumberOf1Between1AndN.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P32_PrintMinNumber.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P33_GetUglyNumber.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -130,4 +134,16 @@ CMakeFiles/SwordOffer.dir/src/P28_MoreThanHalfNumInArray.cpp.obj: ../src/P28_Mor
 
 CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.obj: ../src/P29_MinimumKNmber.cpp
 CMakeFiles/SwordOffer.dir/src/P29_MinimumKNmber.cpp.obj: ../src/P29_MinimumKNmber.h
+
+CMakeFiles/SwordOffer.dir/src/P30_FindGreatestSumOfSubArray.cpp.obj: ../src/P30_FindGreatestSumOfSubArray.cpp
+CMakeFiles/SwordOffer.dir/src/P30_FindGreatestSumOfSubArray.cpp.obj: ../src/P30_FindGreatestSumOfSubArray.h
+
+CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.obj: ../src/P31_NumberOf1Between1AndN.cpp
+CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.obj: ../src/P31_NumberOf1Between1AndN.h
+
+CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj: ../src/P32_PrintMinNumber.cpp
+CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj: ../src/P32_PrintMinNumber.h
+
+CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj: ../src/P33_GetUglyNumber.cpp
+CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj: ../src/P33_GetUglyNumber.h
 
