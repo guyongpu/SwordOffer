@@ -498,6 +498,32 @@ CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P33_GetUglyNumber.cpp -o CMakeFiles\SwordOffer.dir\src\P33_GetUglyNumber.cpp.s
 
+CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj: ../src/P34_FirstNotRepeatingChar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P34_FirstNotRepeatingChar.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P34_FirstNotRepeatingChar.cpp
+
+CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P34_FirstNotRepeatingChar.cpp > CMakeFiles\SwordOffer.dir\src\P34_FirstNotRepeatingChar.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P34_FirstNotRepeatingChar.cpp -o CMakeFiles\SwordOffer.dir\src\P34_FirstNotRepeatingChar.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj: ../src/P35_InversePairs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P35_InversePairs.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P35_InversePairs.cpp
+
+CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P35_InversePairs.cpp > CMakeFiles\SwordOffer.dir\src\P35_InversePairs.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P35_InversePairs.cpp -o CMakeFiles\SwordOffer.dir\src\P35_InversePairs.cpp.s
+
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
@@ -533,7 +559,9 @@ SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/src/P30_FindGreatestSumOfSubArray.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
@@ -572,11 +600,13 @@ SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P30_FindGreatestSumOfSubArray.cpp.
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

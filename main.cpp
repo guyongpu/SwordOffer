@@ -33,11 +33,12 @@
 #include "src/P31_NumberOf1Between1AndN.h"
 #include "src/P32_PrintMinNumber.h"
 #include "src/P33_GetUglyNumber.h"
+#include "src/P34_FirstNotRepeatingChar.h"
 
 using namespace std;
 
 int main() {
-    P33_GetUglyNumber G;
+    P34_FirstNotRepeatingChar G;
     G.test();
     return 0;
 }

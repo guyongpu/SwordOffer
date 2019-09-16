@@ -38,6 +38,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P31_NumberOf1Between1AndN.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P32_PrintMinNumber.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P33_GetUglyNumber.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P34_FirstNotRepeatingChar.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P35_InversePairs.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

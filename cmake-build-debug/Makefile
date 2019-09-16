@@ -1040,6 +1040,60 @@ src/P33_GetUglyNumber.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.s
 .PHONY : src/P33_GetUglyNumber.cpp.s
 
+src/P34_FirstNotRepeatingChar.obj: src/P34_FirstNotRepeatingChar.cpp.obj
+
+.PHONY : src/P34_FirstNotRepeatingChar.obj
+
+# target to build an object file
+src/P34_FirstNotRepeatingChar.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj
+.PHONY : src/P34_FirstNotRepeatingChar.cpp.obj
+
+src/P34_FirstNotRepeatingChar.i: src/P34_FirstNotRepeatingChar.cpp.i
+
+.PHONY : src/P34_FirstNotRepeatingChar.i
+
+# target to preprocess a source file
+src/P34_FirstNotRepeatingChar.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.i
+.PHONY : src/P34_FirstNotRepeatingChar.cpp.i
+
+src/P34_FirstNotRepeatingChar.s: src/P34_FirstNotRepeatingChar.cpp.s
+
+.PHONY : src/P34_FirstNotRepeatingChar.s
+
+# target to generate assembly for a file
+src/P34_FirstNotRepeatingChar.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.s
+.PHONY : src/P34_FirstNotRepeatingChar.cpp.s
+
+src/P35_InversePairs.obj: src/P35_InversePairs.cpp.obj
+
+.PHONY : src/P35_InversePairs.obj
+
+# target to build an object file
+src/P35_InversePairs.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj
+.PHONY : src/P35_InversePairs.cpp.obj
+
+src/P35_InversePairs.i: src/P35_InversePairs.cpp.i
+
+.PHONY : src/P35_InversePairs.i
+
+# target to preprocess a source file
+src/P35_InversePairs.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.i
+.PHONY : src/P35_InversePairs.cpp.i
+
+src/P35_InversePairs.s: src/P35_InversePairs.cpp.s
+
+.PHONY : src/P35_InversePairs.s
+
+# target to generate assembly for a file
+src/P35_InversePairs.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.s
+.PHONY : src/P35_InversePairs.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1151,6 +1205,12 @@ help:
 	@echo ... src/P33_GetUglyNumber.obj
 	@echo ... src/P33_GetUglyNumber.i
 	@echo ... src/P33_GetUglyNumber.s
+	@echo ... src/P34_FirstNotRepeatingChar.obj
+	@echo ... src/P34_FirstNotRepeatingChar.i
+	@echo ... src/P34_FirstNotRepeatingChar.s
+	@echo ... src/P35_InversePairs.obj
+	@echo ... src/P35_InversePairs.i
+	@echo ... src/P35_InversePairs.s
 .PHONY : help
 
 

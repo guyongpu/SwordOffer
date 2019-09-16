@@ -33,6 +33,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P31_NumberOf1Between1AndN.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"

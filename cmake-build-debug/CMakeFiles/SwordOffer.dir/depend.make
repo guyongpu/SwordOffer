@@ -36,6 +36,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P30_FindGreatestSumOfSubArray.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P31_NumberOf1Between1AndN.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P32_PrintMinNumber.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P33_GetUglyNumber.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P34_FirstNotRepeatingChar.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -146,4 +147,7 @@ CMakeFiles/SwordOffer.dir/src/P32_PrintMinNumber.cpp.obj: ../src/P32_PrintMinNum
 
 CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj: ../src/P33_GetUglyNumber.cpp
 CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj: ../src/P33_GetUglyNumber.h
+
+CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj: ../src/P34_FirstNotRepeatingChar.cpp
+CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj: ../src/P34_FirstNotRepeatingChar.h
 
