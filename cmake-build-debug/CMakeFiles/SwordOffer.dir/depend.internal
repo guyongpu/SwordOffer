@@ -38,6 +38,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P32_PrintMinNumber.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P33_GetUglyNumber.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P34_FirstNotRepeatingChar.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P35_InversePairs.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -151,3 +152,6 @@ CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj
 CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P34_FirstNotRepeatingChar.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P34_FirstNotRepeatingChar.h
+CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P35_InversePairs.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P35_InversePairs.h

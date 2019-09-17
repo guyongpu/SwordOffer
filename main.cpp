@@ -34,11 +34,12 @@
 #include "src/P32_PrintMinNumber.h"
 #include "src/P33_GetUglyNumber.h"
 #include "src/P34_FirstNotRepeatingChar.h"
+#include "src/P35_InversePairs.h"
 
 using namespace std;
 
 int main() {
-    P34_FirstNotRepeatingChar G;
+    P35_InversePairs G;
     G.test();
     return 0;
 }
