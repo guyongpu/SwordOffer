@@ -40,6 +40,7 @@ using namespace std;
 
 int main() {
     P35_InversePairs G;
+    /*P35*/
     G.test();
     return 0;
 }
