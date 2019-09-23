@@ -38,6 +38,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P32_PrintMinNumber.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P33_GetUglyNumber.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P34_FirstNotRepeatingChar.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P35_InversePairs.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P36_FindFirstCommonNode.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -154,4 +155,8 @@ CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj: ../src/P34_Firs
 
 CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj: ../src/P35_InversePairs.cpp
 CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj: ../src/P35_InversePairs.h
+
+CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.obj: ../src/P00_CommonHead.h
+CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.obj: ../src/P36_FindFirstCommonNode.cpp
+CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.obj: ../src/P36_FindFirstCommonNode.h
 

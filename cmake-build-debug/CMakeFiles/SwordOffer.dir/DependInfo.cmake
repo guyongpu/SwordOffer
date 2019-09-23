@@ -40,6 +40,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P33_GetUglyNumber.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P33_GetUglyNumber.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P34_FirstNotRepeatingChar.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P34_FirstNotRepeatingChar.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P35_InversePairs.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P36_FindFirstCommonNode.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

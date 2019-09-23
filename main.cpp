@@ -35,12 +35,13 @@
 #include "src/P33_GetUglyNumber.h"
 #include "src/P34_FirstNotRepeatingChar.h"
 #include "src/P35_InversePairs.h"
+#include "src/P36_FindFirstCommonNode.h"
+
 
 using namespace std;
 
 int main() {
-    P35_InversePairs G;
-    /*P35*/
+    P36_FindFirstCommonNode G;
     G.test();
     return 0;
 }

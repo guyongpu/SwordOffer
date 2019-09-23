@@ -1094,6 +1094,33 @@ src/P35_InversePairs.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.s
 .PHONY : src/P35_InversePairs.cpp.s
 
+src/P36_FindFirstCommonNode.obj: src/P36_FindFirstCommonNode.cpp.obj
+
+.PHONY : src/P36_FindFirstCommonNode.obj
+
+# target to build an object file
+src/P36_FindFirstCommonNode.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.obj
+.PHONY : src/P36_FindFirstCommonNode.cpp.obj
+
+src/P36_FindFirstCommonNode.i: src/P36_FindFirstCommonNode.cpp.i
+
+.PHONY : src/P36_FindFirstCommonNode.i
+
+# target to preprocess a source file
+src/P36_FindFirstCommonNode.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.i
+.PHONY : src/P36_FindFirstCommonNode.cpp.i
+
+src/P36_FindFirstCommonNode.s: src/P36_FindFirstCommonNode.cpp.s
+
+.PHONY : src/P36_FindFirstCommonNode.s
+
+# target to generate assembly for a file
+src/P36_FindFirstCommonNode.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.s
+.PHONY : src/P36_FindFirstCommonNode.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1211,6 +1238,9 @@ help:
 	@echo ... src/P35_InversePairs.obj
 	@echo ... src/P35_InversePairs.i
 	@echo ... src/P35_InversePairs.s
+	@echo ... src/P36_FindFirstCommonNode.obj
+	@echo ... src/P36_FindFirstCommonNode.i
+	@echo ... src/P36_FindFirstCommonNode.s
 .PHONY : help
 
 
