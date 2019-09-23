@@ -42,6 +42,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P36_FindFirstCommonNode.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P37_GetNumberOfK.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P38_TreeDepth.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P39_BalancedTree.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -169,3 +170,7 @@ CMakeFiles/SwordOffer.dir/src/P38_TreeDepth.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P38_TreeDepth.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P38_TreeDepth.h
+CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P39_BalancedTree.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P39_BalancedTree.h

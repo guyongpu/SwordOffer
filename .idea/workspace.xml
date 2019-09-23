@@ -11,9 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="P38 finish">
-      <change afterPath="$PROJECT_DIR$/src/P38_TreeDepth.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P38_TreeDepth.h" afterDir="false" />
+    <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/P39_BalancedTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P39_BalancedTree.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -111,7 +111,7 @@
       <workItem from="1569122055951" duration="14842000" />
       <workItem from="1569157749729" duration="121000" />
       <workItem from="1569161024787" duration="730000" />
-      <workItem from="1569198169484" duration="26280000" />
+      <workItem from="1569198169484" duration="32601000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569228762467</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="P38 finish">
+      <created>1569231754064</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569231754064</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +262,17 @@
           <line>17</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P39_BalancedTree.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="pRoot" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

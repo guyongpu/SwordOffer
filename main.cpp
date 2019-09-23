@@ -38,12 +38,13 @@
 #include "src/P36_FindFirstCommonNode.h"
 #include "src/P37_GetNumberOfK.h"
 #include "src/P38_TreeDepth.h"
+#include "src/P39_BalancedTree.h"
 
 
 using namespace std;
 
 int main() {
-    P38_TreeDepth G;
+    P39_BalancedTree G;
     G.test();
     return 0;
 }

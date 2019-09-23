@@ -1175,6 +1175,33 @@ src/P38_TreeDepth.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P38_TreeDepth.cpp.s
 .PHONY : src/P38_TreeDepth.cpp.s
 
+src/P39_BalancedTree.obj: src/P39_BalancedTree.cpp.obj
+
+.PHONY : src/P39_BalancedTree.obj
+
+# target to build an object file
+src/P39_BalancedTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.obj
+.PHONY : src/P39_BalancedTree.cpp.obj
+
+src/P39_BalancedTree.i: src/P39_BalancedTree.cpp.i
+
+.PHONY : src/P39_BalancedTree.i
+
+# target to preprocess a source file
+src/P39_BalancedTree.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.i
+.PHONY : src/P39_BalancedTree.cpp.i
+
+src/P39_BalancedTree.s: src/P39_BalancedTree.cpp.s
+
+.PHONY : src/P39_BalancedTree.s
+
+# target to generate assembly for a file
+src/P39_BalancedTree.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.s
+.PHONY : src/P39_BalancedTree.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1301,6 +1328,9 @@ help:
 	@echo ... src/P38_TreeDepth.obj
 	@echo ... src/P38_TreeDepth.i
 	@echo ... src/P38_TreeDepth.s
+	@echo ... src/P39_BalancedTree.obj
+	@echo ... src/P39_BalancedTree.i
+	@echo ... src/P39_BalancedTree.s
 .PHONY : help
 
 
