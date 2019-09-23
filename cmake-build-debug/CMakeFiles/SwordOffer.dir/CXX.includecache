@@ -6,19 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P37_GetNumberOfK.cpp
+P37_GetNumberOfK.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P37_GetNumberOfK.h
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P37_GetNumberOfK.h
 iostream
 -
-
-E:/OneDrive/CodingInterview/SwordOffer/src/P36_FindFirstCommonNode.cpp
-P36_FindFirstCommonNode.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P36_FindFirstCommonNode.h
-
-E:/OneDrive/CodingInterview/SwordOffer/src/P36_FindFirstCommonNode.h
-iostream
+vector
 -
-stack
+algorithm
 -
-P00_CommonHead.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
 

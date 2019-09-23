@@ -12,8 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P36_FindFirstCommonNode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P36_FindFirstCommonNode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P37_GetNumberOfK.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P37_GetNumberOfK.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -28,13 +28,12 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P35_InversePairs.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P35_InversePairs.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P36_FindFirstCommonNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/P36_FindFirstCommonNode.h" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +112,7 @@
       <workItem from="1569122055951" duration="14842000" />
       <workItem from="1569157749729" duration="121000" />
       <workItem from="1569161024787" duration="730000" />
-      <workItem from="1569198169484" duration="15168000" />
+      <workItem from="1569198169484" duration="23297000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -129,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569161476086</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="P36 finish">
+      <created>1569218920213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569218920213</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="P35 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="P35 finish" />
+    <MESSAGE value="P36 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="P36 finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -234,6 +241,11 @@
           <url>file://$PROJECT_DIR$/src/P36_FindFirstCommonNode.cpp</url>
           <line>48</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P37_GetNumberOfK.cpp</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

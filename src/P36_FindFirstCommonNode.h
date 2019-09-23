@@ -6,7 +6,6 @@
 #define SWORDOFFER_P36_FINDFIRSTCOMMONNODE_H
 
 #include <iostream>
-#include <stack>
 #include "P00_CommonHead.h"
 
 using namespace std;

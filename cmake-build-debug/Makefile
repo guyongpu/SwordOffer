@@ -1121,6 +1121,33 @@ src/P36_FindFirstCommonNode.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.s
 .PHONY : src/P36_FindFirstCommonNode.cpp.s
 
+src/P37_GetNumberOfK.obj: src/P37_GetNumberOfK.cpp.obj
+
+.PHONY : src/P37_GetNumberOfK.obj
+
+# target to build an object file
+src/P37_GetNumberOfK.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P37_GetNumberOfK.cpp.obj
+.PHONY : src/P37_GetNumberOfK.cpp.obj
+
+src/P37_GetNumberOfK.i: src/P37_GetNumberOfK.cpp.i
+
+.PHONY : src/P37_GetNumberOfK.i
+
+# target to preprocess a source file
+src/P37_GetNumberOfK.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P37_GetNumberOfK.cpp.i
+.PHONY : src/P37_GetNumberOfK.cpp.i
+
+src/P37_GetNumberOfK.s: src/P37_GetNumberOfK.cpp.s
+
+.PHONY : src/P37_GetNumberOfK.s
+
+# target to generate assembly for a file
+src/P37_GetNumberOfK.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P37_GetNumberOfK.cpp.s
+.PHONY : src/P37_GetNumberOfK.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1241,6 +1268,9 @@ help:
 	@echo ... src/P36_FindFirstCommonNode.obj
 	@echo ... src/P36_FindFirstCommonNode.i
 	@echo ... src/P36_FindFirstCommonNode.s
+	@echo ... src/P37_GetNumberOfK.obj
+	@echo ... src/P37_GetNumberOfK.i
+	@echo ... src/P37_GetNumberOfK.s
 .PHONY : help
 
 

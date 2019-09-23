@@ -36,12 +36,13 @@
 #include "src/P34_FirstNotRepeatingChar.h"
 #include "src/P35_InversePairs.h"
 #include "src/P36_FindFirstCommonNode.h"
+#include "src/P37_GetNumberOfK.h"
 
 
 using namespace std;
 
 int main() {
-    P36_FindFirstCommonNode G;
+    P37_GetNumberOfK G;
     G.test();
     return 0;
 }
