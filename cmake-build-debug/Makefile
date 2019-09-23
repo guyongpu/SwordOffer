@@ -1148,6 +1148,33 @@ src/P37_GetNumberOfK.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P37_GetNumberOfK.cpp.s
 .PHONY : src/P37_GetNumberOfK.cpp.s
 
+src/P38_TreeDepth.obj: src/P38_TreeDepth.cpp.obj
+
+.PHONY : src/P38_TreeDepth.obj
+
+# target to build an object file
+src/P38_TreeDepth.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P38_TreeDepth.cpp.obj
+.PHONY : src/P38_TreeDepth.cpp.obj
+
+src/P38_TreeDepth.i: src/P38_TreeDepth.cpp.i
+
+.PHONY : src/P38_TreeDepth.i
+
+# target to preprocess a source file
+src/P38_TreeDepth.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P38_TreeDepth.cpp.i
+.PHONY : src/P38_TreeDepth.cpp.i
+
+src/P38_TreeDepth.s: src/P38_TreeDepth.cpp.s
+
+.PHONY : src/P38_TreeDepth.s
+
+# target to generate assembly for a file
+src/P38_TreeDepth.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P38_TreeDepth.cpp.s
+.PHONY : src/P38_TreeDepth.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1271,6 +1298,9 @@ help:
 	@echo ... src/P37_GetNumberOfK.obj
 	@echo ... src/P37_GetNumberOfK.i
 	@echo ... src/P37_GetNumberOfK.s
+	@echo ... src/P38_TreeDepth.obj
+	@echo ... src/P38_TreeDepth.i
+	@echo ... src/P38_TreeDepth.s
 .PHONY : help
 
 

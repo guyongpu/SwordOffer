@@ -37,12 +37,13 @@
 #include "src/P35_InversePairs.h"
 #include "src/P36_FindFirstCommonNode.h"
 #include "src/P37_GetNumberOfK.h"
+#include "src/P38_TreeDepth.h"
 
 
 using namespace std;
 
 int main() {
-    P37_GetNumberOfK G;
+    P38_TreeDepth G;
     G.test();
     return 0;
 }

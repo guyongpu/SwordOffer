@@ -6,15 +6,19 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P37_GetNumberOfK.cpp
-P37_GetNumberOfK.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P37_GetNumberOfK.h
-
-E:/OneDrive/CodingInterview/SwordOffer/src/P37_GetNumberOfK.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
 iostream
 -
-vector
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P38_TreeDepth.cpp
+P38_TreeDepth.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P38_TreeDepth.h
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P38_TreeDepth.h
+iostream
 -
-algorithm
+queue
 -
+P00_CommonHead.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
 

@@ -37,6 +37,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P37_GetNumberOfK.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P38_TreeDepth.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"

@@ -42,6 +42,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P35_InversePairs.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P35_InversePairs.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P36_FindFirstCommonNode.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P37_GetNumberOfK.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P37_GetNumberOfK.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P38_TreeDepth.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P38_TreeDepth.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
