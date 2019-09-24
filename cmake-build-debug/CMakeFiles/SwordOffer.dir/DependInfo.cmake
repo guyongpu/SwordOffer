@@ -53,6 +53,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P46_LastRemaining.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P46_LastRemaining.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P47_SumOf1toN.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P48_Add.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P49_StrToInt.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

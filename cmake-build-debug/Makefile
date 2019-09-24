@@ -1445,6 +1445,33 @@ src/P48_Add.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.s
 .PHONY : src/P48_Add.cpp.s
 
+src/P49_StrToInt.obj: src/P49_StrToInt.cpp.obj
+
+.PHONY : src/P49_StrToInt.obj
+
+# target to build an object file
+src/P49_StrToInt.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.obj
+.PHONY : src/P49_StrToInt.cpp.obj
+
+src/P49_StrToInt.i: src/P49_StrToInt.cpp.i
+
+.PHONY : src/P49_StrToInt.i
+
+# target to preprocess a source file
+src/P49_StrToInt.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.i
+.PHONY : src/P49_StrToInt.cpp.i
+
+src/P49_StrToInt.s: src/P49_StrToInt.cpp.s
+
+.PHONY : src/P49_StrToInt.s
+
+# target to generate assembly for a file
+src/P49_StrToInt.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.s
+.PHONY : src/P49_StrToInt.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1601,6 +1628,9 @@ help:
 	@echo ... src/P48_Add.obj
 	@echo ... src/P48_Add.i
 	@echo ... src/P48_Add.s
+	@echo ... src/P49_StrToInt.obj
+	@echo ... src/P49_StrToInt.i
+	@echo ... src/P49_StrToInt.s
 .PHONY : help
 
 
