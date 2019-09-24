@@ -344,6 +344,18 @@
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P43_LeftRotateString.h">
 			<Option target="SwordOffer"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P44_ReverseSentence.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P44_ReverseSentence.h">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P45_IsContinuous.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P45_IsContinuous.h">
+			<Option target="SwordOffer"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

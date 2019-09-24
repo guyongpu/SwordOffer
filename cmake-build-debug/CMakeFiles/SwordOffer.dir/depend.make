@@ -46,6 +46,8 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P40_FindNumsAppearOnce.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P41_FindContinuousSequence.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P42_FindNumbersWithSum.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P43_LeftRotateString.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P44_ReverseSentence.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P45_IsContinuous.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -189,4 +191,10 @@ CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.obj: ../src/P42_FindNum
 
 CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.obj: ../src/P43_LeftRotateString.cpp
 CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.obj: ../src/P43_LeftRotateString.h
+
+CMakeFiles/SwordOffer.dir/src/P44_ReverseSentence.cpp.obj: ../src/P44_ReverseSentence.cpp
+CMakeFiles/SwordOffer.dir/src/P44_ReverseSentence.cpp.obj: ../src/P44_ReverseSentence.h
+
+CMakeFiles/SwordOffer.dir/src/P45_IsContinuous.cpp.obj: ../src/P45_IsContinuous.cpp
+CMakeFiles/SwordOffer.dir/src/P45_IsContinuous.cpp.obj: ../src/P45_IsContinuous.h
 

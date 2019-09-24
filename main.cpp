@@ -43,12 +43,14 @@
 #include "src/P41_FindContinuousSequence.h"
 #include "src/P42_FindNumbersWithSum.h"
 #include "src/P43_LeftRotateString.h"
+#include "src/P44_ReverseSentence.h"
+#include "src/P45_IsContinuous.h"
 
 
 using namespace std;
 
 int main() {
-    P43_LeftRotateString G;
+    P45_IsContinuous G;
     G.test();
     return 0;
 }

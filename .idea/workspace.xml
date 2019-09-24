@@ -12,16 +12,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/P44_ReverseSentence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P44_ReverseSentence.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P45_IsContinuous.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P45_IsContinuous.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P43_LeftRotateString.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P43_LeftRotateString.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P43_LeftRotateString.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/P43_LeftRotateString.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +114,7 @@
       <workItem from="1569157749729" duration="121000" />
       <workItem from="1569161024787" duration="730000" />
       <workItem from="1569198169484" duration="36263000" />
-      <workItem from="1569284276759" duration="10800000" />
+      <workItem from="1569284276759" duration="16564000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -152,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569289777405</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="P43 finish">
+      <created>1569295680872</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569295680872</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +198,8 @@
     <MESSAGE value="P38 finish" />
     <MESSAGE value="P39 finish" />
     <MESSAGE value="P42 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="P42 finish" />
+    <MESSAGE value="P43 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="P43 finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -273,12 +294,22 @@
           <line>22</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P44_ReverseSentence.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P45_IsContinuous.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P45_IsContinuous.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="CMakeRunConfiguration">
-        <watch expression="pRoot" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

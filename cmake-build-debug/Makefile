@@ -1310,6 +1310,60 @@ src/P43_LeftRotateString.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.s
 .PHONY : src/P43_LeftRotateString.cpp.s
 
+src/P44_ReverseSentence.obj: src/P44_ReverseSentence.cpp.obj
+
+.PHONY : src/P44_ReverseSentence.obj
+
+# target to build an object file
+src/P44_ReverseSentence.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P44_ReverseSentence.cpp.obj
+.PHONY : src/P44_ReverseSentence.cpp.obj
+
+src/P44_ReverseSentence.i: src/P44_ReverseSentence.cpp.i
+
+.PHONY : src/P44_ReverseSentence.i
+
+# target to preprocess a source file
+src/P44_ReverseSentence.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P44_ReverseSentence.cpp.i
+.PHONY : src/P44_ReverseSentence.cpp.i
+
+src/P44_ReverseSentence.s: src/P44_ReverseSentence.cpp.s
+
+.PHONY : src/P44_ReverseSentence.s
+
+# target to generate assembly for a file
+src/P44_ReverseSentence.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P44_ReverseSentence.cpp.s
+.PHONY : src/P44_ReverseSentence.cpp.s
+
+src/P45_IsContinuous.obj: src/P45_IsContinuous.cpp.obj
+
+.PHONY : src/P45_IsContinuous.obj
+
+# target to build an object file
+src/P45_IsContinuous.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P45_IsContinuous.cpp.obj
+.PHONY : src/P45_IsContinuous.cpp.obj
+
+src/P45_IsContinuous.i: src/P45_IsContinuous.cpp.i
+
+.PHONY : src/P45_IsContinuous.i
+
+# target to preprocess a source file
+src/P45_IsContinuous.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P45_IsContinuous.cpp.i
+.PHONY : src/P45_IsContinuous.cpp.i
+
+src/P45_IsContinuous.s: src/P45_IsContinuous.cpp.s
+
+.PHONY : src/P45_IsContinuous.s
+
+# target to generate assembly for a file
+src/P45_IsContinuous.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P45_IsContinuous.cpp.s
+.PHONY : src/P45_IsContinuous.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1451,6 +1505,12 @@ help:
 	@echo ... src/P43_LeftRotateString.obj
 	@echo ... src/P43_LeftRotateString.i
 	@echo ... src/P43_LeftRotateString.s
+	@echo ... src/P44_ReverseSentence.obj
+	@echo ... src/P44_ReverseSentence.i
+	@echo ... src/P44_ReverseSentence.s
+	@echo ... src/P45_IsContinuous.obj
+	@echo ... src/P45_IsContinuous.i
+	@echo ... src/P45_IsContinuous.s
 .PHONY : help
 
 

@@ -47,6 +47,8 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P41_FindContinuousSequence.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P42_FindNumbersWithSum.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P43_LeftRotateString.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P44_ReverseSentence.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P45_IsContinuous.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -190,3 +192,9 @@ CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.obj
 CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P43_LeftRotateString.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P43_LeftRotateString.h
+CMakeFiles/SwordOffer.dir/src/P44_ReverseSentence.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P44_ReverseSentence.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P44_ReverseSentence.h
+CMakeFiles/SwordOffer.dir/src/P45_IsContinuous.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P45_IsContinuous.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P45_IsContinuous.h
