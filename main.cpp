@@ -47,12 +47,12 @@
 #include "src/P45_IsContinuous.h"
 #include "src/P46_LastRemaining.h"
 #include "src/P47_SumOf1toN.h"
-
+#include "src/P48_Add.h"
 
 using namespace std;
 
 int main() {
-    P47_SumOf1toN G;
+    P48_Add G;
     G.test();
     return 0;
 }

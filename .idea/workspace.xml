@@ -12,8 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P47_SumOf1toN.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P47_SumOf1toN.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P48_Add.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P48_Add.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -42,6 +42,20 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
@@ -112,7 +126,7 @@
       <workItem from="1569157749729" duration="121000" />
       <workItem from="1569161024787" duration="730000" />
       <workItem from="1569198169484" duration="36263000" />
-      <workItem from="1569284276759" duration="27557000" />
+      <workItem from="1569284276759" duration="30580000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -184,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569318100406</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="P47 finish">
+      <created>1569331212837</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569331212837</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +234,8 @@
     <MESSAGE value="P43 finish" />
     <MESSAGE value="P45 finish" />
     <MESSAGE value="P46 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="P46 finish" />
+    <MESSAGE value="P47 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="P47 finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

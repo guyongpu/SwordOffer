@@ -1418,6 +1418,33 @@ src/P47_SumOf1toN.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.s
 .PHONY : src/P47_SumOf1toN.cpp.s
 
+src/P48_Add.obj: src/P48_Add.cpp.obj
+
+.PHONY : src/P48_Add.obj
+
+# target to build an object file
+src/P48_Add.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.obj
+.PHONY : src/P48_Add.cpp.obj
+
+src/P48_Add.i: src/P48_Add.cpp.i
+
+.PHONY : src/P48_Add.i
+
+# target to preprocess a source file
+src/P48_Add.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.i
+.PHONY : src/P48_Add.cpp.i
+
+src/P48_Add.s: src/P48_Add.cpp.s
+
+.PHONY : src/P48_Add.s
+
+# target to generate assembly for a file
+src/P48_Add.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.s
+.PHONY : src/P48_Add.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1571,6 +1598,9 @@ help:
 	@echo ... src/P47_SumOf1toN.obj
 	@echo ... src/P47_SumOf1toN.i
 	@echo ... src/P47_SumOf1toN.s
+	@echo ... src/P48_Add.obj
+	@echo ... src/P48_Add.i
+	@echo ... src/P48_Add.s
 .PHONY : help
 
 
