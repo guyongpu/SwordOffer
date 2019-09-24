@@ -11,7 +11,8 @@ using namespace std;
 
 class P43_LeftRotateString {
 public:
-    string LeftRotateString(string str, int n);
+    string LeftRotateString1(string str, int n);
+    string LeftRotateString2(string str, int n);
     int test();
 };
 
