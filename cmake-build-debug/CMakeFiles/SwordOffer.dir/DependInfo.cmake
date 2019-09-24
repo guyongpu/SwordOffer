@@ -51,6 +51,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P44_ReverseSentence.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P44_ReverseSentence.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P45_IsContinuous.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P45_IsContinuous.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P46_LastRemaining.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P46_LastRemaining.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P47_SumOf1toN.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

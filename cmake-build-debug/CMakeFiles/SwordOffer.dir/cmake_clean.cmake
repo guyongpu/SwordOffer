@@ -46,6 +46,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P44_ReverseSentence.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P45_IsContinuous.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P46_LastRemaining.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"

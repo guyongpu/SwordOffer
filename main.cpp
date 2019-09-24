@@ -46,12 +46,13 @@
 #include "src/P44_ReverseSentence.h"
 #include "src/P45_IsContinuous.h"
 #include "src/P46_LastRemaining.h"
+#include "src/P47_SumOf1toN.h"
 
 
 using namespace std;
 
 int main() {
-    P46_LastRemaining G;
+    P47_SumOf1toN G;
     G.test();
     return 0;
 }

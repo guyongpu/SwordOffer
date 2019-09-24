@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P46_LastRemaining.cpp
-P46_LastRemaining.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P46_LastRemaining.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P47_SumOf1toN.cpp
+P47_SumOf1toN.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P47_SumOf1toN.h
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P46_LastRemaining.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P47_SumOf1toN.h
 iostream
 -
 vector

@@ -1391,6 +1391,33 @@ src/P46_LastRemaining.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P46_LastRemaining.cpp.s
 .PHONY : src/P46_LastRemaining.cpp.s
 
+src/P47_SumOf1toN.obj: src/P47_SumOf1toN.cpp.obj
+
+.PHONY : src/P47_SumOf1toN.obj
+
+# target to build an object file
+src/P47_SumOf1toN.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.obj
+.PHONY : src/P47_SumOf1toN.cpp.obj
+
+src/P47_SumOf1toN.i: src/P47_SumOf1toN.cpp.i
+
+.PHONY : src/P47_SumOf1toN.i
+
+# target to preprocess a source file
+src/P47_SumOf1toN.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.i
+.PHONY : src/P47_SumOf1toN.cpp.i
+
+src/P47_SumOf1toN.s: src/P47_SumOf1toN.cpp.s
+
+.PHONY : src/P47_SumOf1toN.s
+
+# target to generate assembly for a file
+src/P47_SumOf1toN.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.s
+.PHONY : src/P47_SumOf1toN.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1541,6 +1568,9 @@ help:
 	@echo ... src/P46_LastRemaining.obj
 	@echo ... src/P46_LastRemaining.i
 	@echo ... src/P46_LastRemaining.s
+	@echo ... src/P47_SumOf1toN.obj
+	@echo ... src/P47_SumOf1toN.i
+	@echo ... src/P47_SumOf1toN.s
 .PHONY : help
 
 
