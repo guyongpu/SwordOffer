@@ -1202,6 +1202,114 @@ src/P39_BalancedTree.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.s
 .PHONY : src/P39_BalancedTree.cpp.s
 
+src/P40_FindNumsAppearOnce.obj: src/P40_FindNumsAppearOnce.cpp.obj
+
+.PHONY : src/P40_FindNumsAppearOnce.obj
+
+# target to build an object file
+src/P40_FindNumsAppearOnce.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.obj
+.PHONY : src/P40_FindNumsAppearOnce.cpp.obj
+
+src/P40_FindNumsAppearOnce.i: src/P40_FindNumsAppearOnce.cpp.i
+
+.PHONY : src/P40_FindNumsAppearOnce.i
+
+# target to preprocess a source file
+src/P40_FindNumsAppearOnce.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.i
+.PHONY : src/P40_FindNumsAppearOnce.cpp.i
+
+src/P40_FindNumsAppearOnce.s: src/P40_FindNumsAppearOnce.cpp.s
+
+.PHONY : src/P40_FindNumsAppearOnce.s
+
+# target to generate assembly for a file
+src/P40_FindNumsAppearOnce.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.s
+.PHONY : src/P40_FindNumsAppearOnce.cpp.s
+
+src/P41_FindContinuousSequence.obj: src/P41_FindContinuousSequence.cpp.obj
+
+.PHONY : src/P41_FindContinuousSequence.obj
+
+# target to build an object file
+src/P41_FindContinuousSequence.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.obj
+.PHONY : src/P41_FindContinuousSequence.cpp.obj
+
+src/P41_FindContinuousSequence.i: src/P41_FindContinuousSequence.cpp.i
+
+.PHONY : src/P41_FindContinuousSequence.i
+
+# target to preprocess a source file
+src/P41_FindContinuousSequence.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.i
+.PHONY : src/P41_FindContinuousSequence.cpp.i
+
+src/P41_FindContinuousSequence.s: src/P41_FindContinuousSequence.cpp.s
+
+.PHONY : src/P41_FindContinuousSequence.s
+
+# target to generate assembly for a file
+src/P41_FindContinuousSequence.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.s
+.PHONY : src/P41_FindContinuousSequence.cpp.s
+
+src/P42_FindNumbersWithSum.obj: src/P42_FindNumbersWithSum.cpp.obj
+
+.PHONY : src/P42_FindNumbersWithSum.obj
+
+# target to build an object file
+src/P42_FindNumbersWithSum.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.obj
+.PHONY : src/P42_FindNumbersWithSum.cpp.obj
+
+src/P42_FindNumbersWithSum.i: src/P42_FindNumbersWithSum.cpp.i
+
+.PHONY : src/P42_FindNumbersWithSum.i
+
+# target to preprocess a source file
+src/P42_FindNumbersWithSum.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.i
+.PHONY : src/P42_FindNumbersWithSum.cpp.i
+
+src/P42_FindNumbersWithSum.s: src/P42_FindNumbersWithSum.cpp.s
+
+.PHONY : src/P42_FindNumbersWithSum.s
+
+# target to generate assembly for a file
+src/P42_FindNumbersWithSum.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.s
+.PHONY : src/P42_FindNumbersWithSum.cpp.s
+
+src/P43_LeftRotateString.obj: src/P43_LeftRotateString.cpp.obj
+
+.PHONY : src/P43_LeftRotateString.obj
+
+# target to build an object file
+src/P43_LeftRotateString.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.obj
+.PHONY : src/P43_LeftRotateString.cpp.obj
+
+src/P43_LeftRotateString.i: src/P43_LeftRotateString.cpp.i
+
+.PHONY : src/P43_LeftRotateString.i
+
+# target to preprocess a source file
+src/P43_LeftRotateString.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.i
+.PHONY : src/P43_LeftRotateString.cpp.i
+
+src/P43_LeftRotateString.s: src/P43_LeftRotateString.cpp.s
+
+.PHONY : src/P43_LeftRotateString.s
+
+# target to generate assembly for a file
+src/P43_LeftRotateString.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.s
+.PHONY : src/P43_LeftRotateString.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1331,6 +1439,18 @@ help:
 	@echo ... src/P39_BalancedTree.obj
 	@echo ... src/P39_BalancedTree.i
 	@echo ... src/P39_BalancedTree.s
+	@echo ... src/P40_FindNumsAppearOnce.obj
+	@echo ... src/P40_FindNumsAppearOnce.i
+	@echo ... src/P40_FindNumsAppearOnce.s
+	@echo ... src/P41_FindContinuousSequence.obj
+	@echo ... src/P41_FindContinuousSequence.i
+	@echo ... src/P41_FindContinuousSequence.s
+	@echo ... src/P42_FindNumbersWithSum.obj
+	@echo ... src/P42_FindNumbersWithSum.i
+	@echo ... src/P42_FindNumbersWithSum.s
+	@echo ... src/P43_LeftRotateString.obj
+	@echo ... src/P43_LeftRotateString.i
+	@echo ... src/P43_LeftRotateString.s
 .PHONY : help
 
 

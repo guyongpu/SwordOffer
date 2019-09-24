@@ -12,8 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P39_BalancedTree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P39_BalancedTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P40_FindNumsAppearOnce.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P40_FindNumsAppearOnce.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P41_FindContinuousSequence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P41_FindContinuousSequence.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P42_FindNumbersWithSum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P42_FindNumbersWithSum.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P43_LeftRotateString.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P43_LeftRotateString.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -111,7 +117,8 @@
       <workItem from="1569122055951" duration="14842000" />
       <workItem from="1569157749729" duration="121000" />
       <workItem from="1569161024787" duration="730000" />
-      <workItem from="1569198169484" duration="32601000" />
+      <workItem from="1569198169484" duration="36263000" />
+      <workItem from="1569284276759" duration="5398000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -148,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569231754064</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="P39 finish">
+      <created>1569242678609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569242678609</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +186,8 @@
     <MESSAGE value="P36 finish" />
     <MESSAGE value="P37 finish" />
     <MESSAGE value="P38 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="P38 finish" />
+    <MESSAGE value="P39 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="P39 finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

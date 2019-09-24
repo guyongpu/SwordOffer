@@ -576,6 +576,58 @@ CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P39_BalancedTree.cpp -o CMakeFiles\SwordOffer.dir\src\P39_BalancedTree.cpp.s
 
+CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.obj: ../src/P40_FindNumsAppearOnce.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P40_FindNumsAppearOnce.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P40_FindNumsAppearOnce.cpp
+
+CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P40_FindNumsAppearOnce.cpp > CMakeFiles\SwordOffer.dir\src\P40_FindNumsAppearOnce.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P40_FindNumsAppearOnce.cpp -o CMakeFiles\SwordOffer.dir\src\P40_FindNumsAppearOnce.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.obj: ../src/P41_FindContinuousSequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P41_FindContinuousSequence.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P41_FindContinuousSequence.cpp
+
+CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P41_FindContinuousSequence.cpp > CMakeFiles\SwordOffer.dir\src\P41_FindContinuousSequence.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P41_FindContinuousSequence.cpp -o CMakeFiles\SwordOffer.dir\src\P41_FindContinuousSequence.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.obj: ../src/P42_FindNumbersWithSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P42_FindNumbersWithSum.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P42_FindNumbersWithSum.cpp
+
+CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P42_FindNumbersWithSum.cpp > CMakeFiles\SwordOffer.dir\src\P42_FindNumbersWithSum.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P42_FindNumbersWithSum.cpp -o CMakeFiles\SwordOffer.dir\src\P42_FindNumbersWithSum.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.obj: ../src/P43_LeftRotateString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P43_LeftRotateString.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P43_LeftRotateString.cpp
+
+CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P43_LeftRotateString.cpp > CMakeFiles\SwordOffer.dir\src\P43_LeftRotateString.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P43_LeftRotateString.cpp -o CMakeFiles\SwordOffer.dir\src\P43_LeftRotateString.cpp.s
+
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
@@ -617,7 +669,11 @@ SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P37_GetNumberOfK.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P38_TreeDepth.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
@@ -662,11 +718,15 @@ SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P36_FindFirstCommonNode.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P37_GetNumberOfK.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P38_TreeDepth.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P43_LeftRotateString.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -43,6 +43,9 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P37_GetNumberOfK.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P38_TreeDepth.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P39_BalancedTree.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P40_FindNumsAppearOnce.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P41_FindContinuousSequence.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P42_FindNumbersWithSum.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -174,3 +177,12 @@ CMakeFiles/SwordOffer.dir/src/P39_BalancedTree.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P39_BalancedTree.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P39_BalancedTree.h
+CMakeFiles/SwordOffer.dir/src/P40_FindNumsAppearOnce.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P40_FindNumsAppearOnce.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P40_FindNumsAppearOnce.h
+CMakeFiles/SwordOffer.dir/src/P41_FindContinuousSequence.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P41_FindContinuousSequence.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P41_FindContinuousSequence.h
+CMakeFiles/SwordOffer.dir/src/P42_FindNumbersWithSum.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P42_FindNumbersWithSum.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P42_FindNumbersWithSum.h

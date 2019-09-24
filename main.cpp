@@ -39,12 +39,16 @@
 #include "src/P37_GetNumberOfK.h"
 #include "src/P38_TreeDepth.h"
 #include "src/P39_BalancedTree.h"
+#include "src/P40_FindNumsAppearOnce.h"
+#include "src/P41_FindContinuousSequence.h"
+#include "src/P42_FindNumbersWithSum.h"
+#include "src/P43_LeftRotateString.h"
 
 
 using namespace std;
 
 int main() {
-    P39_BalancedTree G;
+    P43_LeftRotateString G;
     G.test();
     return 0;
 }
