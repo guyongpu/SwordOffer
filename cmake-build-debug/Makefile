@@ -1364,6 +1364,33 @@ src/P45_IsContinuous.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P45_IsContinuous.cpp.s
 .PHONY : src/P45_IsContinuous.cpp.s
 
+src/P46_LastRemaining.obj: src/P46_LastRemaining.cpp.obj
+
+.PHONY : src/P46_LastRemaining.obj
+
+# target to build an object file
+src/P46_LastRemaining.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P46_LastRemaining.cpp.obj
+.PHONY : src/P46_LastRemaining.cpp.obj
+
+src/P46_LastRemaining.i: src/P46_LastRemaining.cpp.i
+
+.PHONY : src/P46_LastRemaining.i
+
+# target to preprocess a source file
+src/P46_LastRemaining.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P46_LastRemaining.cpp.i
+.PHONY : src/P46_LastRemaining.cpp.i
+
+src/P46_LastRemaining.s: src/P46_LastRemaining.cpp.s
+
+.PHONY : src/P46_LastRemaining.s
+
+# target to generate assembly for a file
+src/P46_LastRemaining.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P46_LastRemaining.cpp.s
+.PHONY : src/P46_LastRemaining.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1511,6 +1538,9 @@ help:
 	@echo ... src/P45_IsContinuous.obj
 	@echo ... src/P45_IsContinuous.i
 	@echo ... src/P45_IsContinuous.s
+	@echo ... src/P46_LastRemaining.obj
+	@echo ... src/P46_LastRemaining.i
+	@echo ... src/P46_LastRemaining.s
 .PHONY : help
 
 

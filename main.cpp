@@ -45,12 +45,13 @@
 #include "src/P43_LeftRotateString.h"
 #include "src/P44_ReverseSentence.h"
 #include "src/P45_IsContinuous.h"
+#include "src/P46_LastRemaining.h"
 
 
 using namespace std;
 
 int main() {
-    P45_IsContinuous G;
+    P46_LastRemaining G;
     G.test();
     return 0;
 }

@@ -12,10 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P44_ReverseSentence.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P44_ReverseSentence.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P45_IsContinuous.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P45_IsContinuous.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P46_LastRemaining.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P46_LastRemaining.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -114,7 +112,7 @@
       <workItem from="1569157749729" duration="121000" />
       <workItem from="1569161024787" duration="730000" />
       <workItem from="1569198169484" duration="36263000" />
-      <workItem from="1569284276759" duration="16564000" />
+      <workItem from="1569284276759" duration="24246000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -172,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569295680872</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="P45 finish">
+      <created>1569304979832</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1569304979832</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +204,8 @@
     <MESSAGE value="P39 finish" />
     <MESSAGE value="P42 finish" />
     <MESSAGE value="P43 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="P43 finish" />
+    <MESSAGE value="P45 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="P45 finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -308,6 +314,16 @@
           <url>file://$PROJECT_DIR$/src/P45_IsContinuous.cpp</url>
           <line>30</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P46_LastRemaining.cpp</url>
+          <line>46</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P46_LastRemaining.cpp</url>
+          <line>43</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
