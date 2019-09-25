@@ -51,6 +51,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P45_IsContinuous.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P46_LastRemaining.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P47_SumOf1toN.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P48_Add.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P49_StrToInt.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -209,4 +210,7 @@ CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.obj: ../src/P47_SumOf1toN.h
 
 CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.obj: ../src/P48_Add.cpp
 CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.obj: ../src/P48_Add.h
+
+CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.obj: ../src/P49_StrToInt.cpp
+CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.obj: ../src/P49_StrToInt.h
 

@@ -48,11 +48,12 @@
 #include "src/P46_LastRemaining.h"
 #include "src/P47_SumOf1toN.h"
 #include "src/P48_Add.h"
+#include "src/P49_StrToInt.h"
 
 using namespace std;
 
 int main() {
-    P48_Add G;
+    P49_StrToInt G;
     G.test();
     return 0;
 }

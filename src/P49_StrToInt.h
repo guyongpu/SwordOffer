@@ -5,8 +5,14 @@
 #ifndef SWORDOFFER_P49_STRTOINT_H
 #define SWORDOFFER_P49_STRTOINT_H
 
+#include <iostream>
+
+using namespace std;
 
 class P49_StrToInt {
+public:
+    int test();
+    int StrToInt(string str);
 
 };
 
