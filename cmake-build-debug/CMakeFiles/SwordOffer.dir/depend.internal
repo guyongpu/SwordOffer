@@ -57,6 +57,8 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P51_BuildMultiply.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P52_RegularExpressionMatch.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P54_FirstAppearingOnce.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -230,3 +232,10 @@ CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.obj
 CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.h
+CMakeFiles/SwordOffer.dir/src/P54_FirstAppearingOnce.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P54_FirstAppearingOnce.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P54_FirstAppearingOnce.h
+CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.h

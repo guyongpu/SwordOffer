@@ -53,11 +53,13 @@
 #include "src/P51_BuildMultiply.h"
 #include "src/P52_RegularExpressionMatch.h"
 #include "src/P53_StringOfRepresentNum.h"
+#include "src/P54_FirstAppearingOnce.h"
+#include "src/P55_EntryNodeOfLoop.h"
 
 using namespace std;
 
 int main() {
-    P53_StringOfRepresentNum G;
+    P55_EntryNodeOfLoop G;
     G.test();
     return 0;
 }

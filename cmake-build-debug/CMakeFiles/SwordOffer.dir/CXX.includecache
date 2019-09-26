@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.cpp
-P53_StringOfRepresentNum.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.h
-
-E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
 iostream
 -
-cstring
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.cpp
+P55_EntryNodeOfLoop.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.h
+
+E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.h
+iostream
 -
+P00_CommonHead.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
 

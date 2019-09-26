@@ -56,6 +56,8 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P50_DuplicateNumOfArray.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P51_BuildMultiply.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P52_RegularExpressionMatch.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P53_StringOfRepresentNum.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P54_FirstAppearingOnce.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P55_EntryNodeOfLoop.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -229,4 +231,11 @@ CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.obj: ../src/P52_Reg
 
 CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj: ../src/P53_StringOfRepresentNum.cpp
 CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj: ../src/P53_StringOfRepresentNum.h
+
+CMakeFiles/SwordOffer.dir/src/P54_FirstAppearingOnce.cpp.obj: ../src/P54_FirstAppearingOnce.cpp
+CMakeFiles/SwordOffer.dir/src/P54_FirstAppearingOnce.cpp.obj: ../src/P54_FirstAppearingOnce.h
+
+CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj: ../src/P00_CommonHead.h
+CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj: ../src/P55_EntryNodeOfLoop.cpp
+CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj: ../src/P55_EntryNodeOfLoop.h
 

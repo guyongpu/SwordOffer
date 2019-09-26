@@ -53,6 +53,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P54_FirstAppearingOnce.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"

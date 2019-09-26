@@ -1580,6 +1580,60 @@ src/P53_StringOfRepresentNum.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.s
 .PHONY : src/P53_StringOfRepresentNum.cpp.s
 
+src/P54_FirstAppearingOnce.obj: src/P54_FirstAppearingOnce.cpp.obj
+
+.PHONY : src/P54_FirstAppearingOnce.obj
+
+# target to build an object file
+src/P54_FirstAppearingOnce.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P54_FirstAppearingOnce.cpp.obj
+.PHONY : src/P54_FirstAppearingOnce.cpp.obj
+
+src/P54_FirstAppearingOnce.i: src/P54_FirstAppearingOnce.cpp.i
+
+.PHONY : src/P54_FirstAppearingOnce.i
+
+# target to preprocess a source file
+src/P54_FirstAppearingOnce.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P54_FirstAppearingOnce.cpp.i
+.PHONY : src/P54_FirstAppearingOnce.cpp.i
+
+src/P54_FirstAppearingOnce.s: src/P54_FirstAppearingOnce.cpp.s
+
+.PHONY : src/P54_FirstAppearingOnce.s
+
+# target to generate assembly for a file
+src/P54_FirstAppearingOnce.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P54_FirstAppearingOnce.cpp.s
+.PHONY : src/P54_FirstAppearingOnce.cpp.s
+
+src/P55_EntryNodeOfLoop.obj: src/P55_EntryNodeOfLoop.cpp.obj
+
+.PHONY : src/P55_EntryNodeOfLoop.obj
+
+# target to build an object file
+src/P55_EntryNodeOfLoop.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj
+.PHONY : src/P55_EntryNodeOfLoop.cpp.obj
+
+src/P55_EntryNodeOfLoop.i: src/P55_EntryNodeOfLoop.cpp.i
+
+.PHONY : src/P55_EntryNodeOfLoop.i
+
+# target to preprocess a source file
+src/P55_EntryNodeOfLoop.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.i
+.PHONY : src/P55_EntryNodeOfLoop.cpp.i
+
+src/P55_EntryNodeOfLoop.s: src/P55_EntryNodeOfLoop.cpp.s
+
+.PHONY : src/P55_EntryNodeOfLoop.s
+
+# target to generate assembly for a file
+src/P55_EntryNodeOfLoop.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.s
+.PHONY : src/P55_EntryNodeOfLoop.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1751,6 +1805,12 @@ help:
 	@echo ... src/P53_StringOfRepresentNum.obj
 	@echo ... src/P53_StringOfRepresentNum.i
 	@echo ... src/P53_StringOfRepresentNum.s
+	@echo ... src/P54_FirstAppearingOnce.obj
+	@echo ... src/P54_FirstAppearingOnce.i
+	@echo ... src/P54_FirstAppearingOnce.s
+	@echo ... src/P55_EntryNodeOfLoop.obj
+	@echo ... src/P55_EntryNodeOfLoop.i
+	@echo ... src/P55_EntryNodeOfLoop.s
 .PHONY : help
 
 
