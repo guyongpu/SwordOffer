@@ -49,6 +49,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"

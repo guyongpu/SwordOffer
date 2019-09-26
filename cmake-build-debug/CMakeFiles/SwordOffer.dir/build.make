@@ -706,6 +706,32 @@ CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P49_StrToInt.cpp -o CMakeFiles\SwordOffer.dir\src\P49_StrToInt.cpp.s
 
+CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj: ../src/P50_DuplicateNumOfArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P50_DuplicateNumOfArray.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P50_DuplicateNumOfArray.cpp
+
+CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P50_DuplicateNumOfArray.cpp > CMakeFiles\SwordOffer.dir\src\P50_DuplicateNumOfArray.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P50_DuplicateNumOfArray.cpp -o CMakeFiles\SwordOffer.dir\src\P50_DuplicateNumOfArray.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj: ../src/P51_BuildMultiply.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P51_BuildMultiply.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P51_BuildMultiply.cpp
+
+CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P51_BuildMultiply.cpp > CMakeFiles\SwordOffer.dir\src\P51_BuildMultiply.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P51_BuildMultiply.cpp -o CMakeFiles\SwordOffer.dir\src\P51_BuildMultiply.cpp.s
+
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
@@ -757,7 +783,9 @@ SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/src/P46_LastRemaining.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
@@ -812,11 +840,13 @@ SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P46_LastRemaining.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P47_SumOf1toN.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P48_Add.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

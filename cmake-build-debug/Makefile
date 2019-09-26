@@ -1472,6 +1472,60 @@ src/P49_StrToInt.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.s
 .PHONY : src/P49_StrToInt.cpp.s
 
+src/P50_DuplicateNumOfArray.obj: src/P50_DuplicateNumOfArray.cpp.obj
+
+.PHONY : src/P50_DuplicateNumOfArray.obj
+
+# target to build an object file
+src/P50_DuplicateNumOfArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj
+.PHONY : src/P50_DuplicateNumOfArray.cpp.obj
+
+src/P50_DuplicateNumOfArray.i: src/P50_DuplicateNumOfArray.cpp.i
+
+.PHONY : src/P50_DuplicateNumOfArray.i
+
+# target to preprocess a source file
+src/P50_DuplicateNumOfArray.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.i
+.PHONY : src/P50_DuplicateNumOfArray.cpp.i
+
+src/P50_DuplicateNumOfArray.s: src/P50_DuplicateNumOfArray.cpp.s
+
+.PHONY : src/P50_DuplicateNumOfArray.s
+
+# target to generate assembly for a file
+src/P50_DuplicateNumOfArray.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.s
+.PHONY : src/P50_DuplicateNumOfArray.cpp.s
+
+src/P51_BuildMultiply.obj: src/P51_BuildMultiply.cpp.obj
+
+.PHONY : src/P51_BuildMultiply.obj
+
+# target to build an object file
+src/P51_BuildMultiply.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj
+.PHONY : src/P51_BuildMultiply.cpp.obj
+
+src/P51_BuildMultiply.i: src/P51_BuildMultiply.cpp.i
+
+.PHONY : src/P51_BuildMultiply.i
+
+# target to preprocess a source file
+src/P51_BuildMultiply.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.i
+.PHONY : src/P51_BuildMultiply.cpp.i
+
+src/P51_BuildMultiply.s: src/P51_BuildMultiply.cpp.s
+
+.PHONY : src/P51_BuildMultiply.s
+
+# target to generate assembly for a file
+src/P51_BuildMultiply.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.s
+.PHONY : src/P51_BuildMultiply.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1631,6 +1685,12 @@ help:
 	@echo ... src/P49_StrToInt.obj
 	@echo ... src/P49_StrToInt.i
 	@echo ... src/P49_StrToInt.s
+	@echo ... src/P50_DuplicateNumOfArray.obj
+	@echo ... src/P50_DuplicateNumOfArray.i
+	@echo ... src/P50_DuplicateNumOfArray.s
+	@echo ... src/P51_BuildMultiply.obj
+	@echo ... src/P51_BuildMultiply.i
+	@echo ... src/P51_BuildMultiply.s
 .PHONY : help
 
 

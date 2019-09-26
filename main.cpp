@@ -49,11 +49,13 @@
 #include "src/P47_SumOf1toN.h"
 #include "src/P48_Add.h"
 #include "src/P49_StrToInt.h"
+#include "src/P50_DuplicateNumOfArray.h"
+#include "src/P51_BuildMultiply.h"
 
 using namespace std;
 
 int main() {
-    P49_StrToInt G;
+    P51_BuildMultiply G;
     G.test();
     return 0;
 }
