@@ -12,10 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P50_DuplicateNumOfArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P50_DuplicateNumOfArray.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P51_BuildMultiply.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P51_BuildMultiply.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P52_RegularExpressionMatch.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P52_RegularExpressionMatch.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P53_StringOfRepresentNum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P53_StringOfRepresentNum.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -131,7 +131,7 @@
       <workItem from="1569284276759" duration="30778000" />
       <workItem from="1569370557334" duration="1148000" />
       <workItem from="1569409391669" duration="8527000" />
-      <workItem from="1569457087955" duration="6518000" />
+      <workItem from="1569457087955" duration="28145000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569419656447</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="P51 finish">
+      <created>1569463645838</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1569463645838</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +270,8 @@
     <MESSAGE value="P47 finish" />
     <MESSAGE value="P48 finish" />
     <MESSAGE value="P49 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="P49 finish" />
+    <MESSAGE value="P51 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="P51 finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -402,6 +410,26 @@
           <url>file://$PROJECT_DIR$/src/P51_BuildMultiply.cpp</url>
           <line>16</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P52_RegularExpressionMatch.cpp</url>
+          <line>26</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P52_RegularExpressionMatch.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P53_StringOfRepresentNum.cpp</url>
+          <line>98</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P53_StringOfRepresentNum.cpp</url>
+          <line>37</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

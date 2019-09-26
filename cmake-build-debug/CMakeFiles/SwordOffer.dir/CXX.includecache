@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P51_BuildMultiply.cpp
-P51_BuildMultiply.h
-E:/OneDrive/CodingInterview/SwordOffer/src/P51_BuildMultiply.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.cpp
+P53_StringOfRepresentNum.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.h
 
-E:/OneDrive/CodingInterview/SwordOffer/src/P51_BuildMultiply.h
+E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.h
 iostream
 -
-vector
+cstring
 -
 

@@ -55,6 +55,8 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P49_StrToInt.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P50_DuplicateNumOfArray.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P51_BuildMultiply.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P52_RegularExpressionMatch.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -222,3 +224,9 @@ CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj
 CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P51_BuildMultiply.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P51_BuildMultiply.h
+CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P52_RegularExpressionMatch.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P52_RegularExpressionMatch.h
+CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.h

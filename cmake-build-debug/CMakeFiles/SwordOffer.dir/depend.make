@@ -54,6 +54,8 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P48_Add.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P49_StrToInt.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P50_DuplicateNumOfArray.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P51_BuildMultiply.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P52_RegularExpressionMatch.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P53_StringOfRepresentNum.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -221,4 +223,10 @@ CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj: ../src/P50_Duplic
 
 CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj: ../src/P51_BuildMultiply.cpp
 CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj: ../src/P51_BuildMultiply.h
+
+CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.obj: ../src/P52_RegularExpressionMatch.cpp
+CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.obj: ../src/P52_RegularExpressionMatch.h
+
+CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj: ../src/P53_StringOfRepresentNum.cpp
+CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj: ../src/P53_StringOfRepresentNum.h
 

@@ -56,6 +56,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P49_StrToInt.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P49_StrToInt.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P50_DuplicateNumOfArray.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P50_DuplicateNumOfArray.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P51_BuildMultiply.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P52_RegularExpressionMatch.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

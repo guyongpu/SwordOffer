@@ -1526,6 +1526,60 @@ src/P51_BuildMultiply.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P51_BuildMultiply.cpp.s
 .PHONY : src/P51_BuildMultiply.cpp.s
 
+src/P52_RegularExpressionMatch.obj: src/P52_RegularExpressionMatch.cpp.obj
+
+.PHONY : src/P52_RegularExpressionMatch.obj
+
+# target to build an object file
+src/P52_RegularExpressionMatch.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.obj
+.PHONY : src/P52_RegularExpressionMatch.cpp.obj
+
+src/P52_RegularExpressionMatch.i: src/P52_RegularExpressionMatch.cpp.i
+
+.PHONY : src/P52_RegularExpressionMatch.i
+
+# target to preprocess a source file
+src/P52_RegularExpressionMatch.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.i
+.PHONY : src/P52_RegularExpressionMatch.cpp.i
+
+src/P52_RegularExpressionMatch.s: src/P52_RegularExpressionMatch.cpp.s
+
+.PHONY : src/P52_RegularExpressionMatch.s
+
+# target to generate assembly for a file
+src/P52_RegularExpressionMatch.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P52_RegularExpressionMatch.cpp.s
+.PHONY : src/P52_RegularExpressionMatch.cpp.s
+
+src/P53_StringOfRepresentNum.obj: src/P53_StringOfRepresentNum.cpp.obj
+
+.PHONY : src/P53_StringOfRepresentNum.obj
+
+# target to build an object file
+src/P53_StringOfRepresentNum.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj
+.PHONY : src/P53_StringOfRepresentNum.cpp.obj
+
+src/P53_StringOfRepresentNum.i: src/P53_StringOfRepresentNum.cpp.i
+
+.PHONY : src/P53_StringOfRepresentNum.i
+
+# target to preprocess a source file
+src/P53_StringOfRepresentNum.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.i
+.PHONY : src/P53_StringOfRepresentNum.cpp.i
+
+src/P53_StringOfRepresentNum.s: src/P53_StringOfRepresentNum.cpp.s
+
+.PHONY : src/P53_StringOfRepresentNum.s
+
+# target to generate assembly for a file
+src/P53_StringOfRepresentNum.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.s
+.PHONY : src/P53_StringOfRepresentNum.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1691,6 +1745,12 @@ help:
 	@echo ... src/P51_BuildMultiply.obj
 	@echo ... src/P51_BuildMultiply.i
 	@echo ... src/P51_BuildMultiply.s
+	@echo ... src/P52_RegularExpressionMatch.obj
+	@echo ... src/P52_RegularExpressionMatch.i
+	@echo ... src/P52_RegularExpressionMatch.s
+	@echo ... src/P53_StringOfRepresentNum.obj
+	@echo ... src/P53_StringOfRepresentNum.i
+	@echo ... src/P53_StringOfRepresentNum.s
 .PHONY : help
 
 

@@ -51,11 +51,13 @@
 #include "src/P49_StrToInt.h"
 #include "src/P50_DuplicateNumOfArray.h"
 #include "src/P51_BuildMultiply.h"
+#include "src/P52_RegularExpressionMatch.h"
+#include "src/P53_StringOfRepresentNum.h"
 
 using namespace std;
 
 int main() {
-    P51_BuildMultiply G;
+    P53_StringOfRepresentNum G;
     G.test();
     return 0;
 }
