@@ -1634,6 +1634,33 @@ src/P55_EntryNodeOfLoop.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.s
 .PHONY : src/P55_EntryNodeOfLoop.cpp.s
 
+src/P56_DeleteDuplication.obj: src/P56_DeleteDuplication.cpp.obj
+
+.PHONY : src/P56_DeleteDuplication.obj
+
+# target to build an object file
+src/P56_DeleteDuplication.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.obj
+.PHONY : src/P56_DeleteDuplication.cpp.obj
+
+src/P56_DeleteDuplication.i: src/P56_DeleteDuplication.cpp.i
+
+.PHONY : src/P56_DeleteDuplication.i
+
+# target to preprocess a source file
+src/P56_DeleteDuplication.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.i
+.PHONY : src/P56_DeleteDuplication.cpp.i
+
+src/P56_DeleteDuplication.s: src/P56_DeleteDuplication.cpp.s
+
+.PHONY : src/P56_DeleteDuplication.s
+
+# target to generate assembly for a file
+src/P56_DeleteDuplication.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.s
+.PHONY : src/P56_DeleteDuplication.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1811,6 +1838,9 @@ help:
 	@echo ... src/P55_EntryNodeOfLoop.obj
 	@echo ... src/P55_EntryNodeOfLoop.i
 	@echo ... src/P55_EntryNodeOfLoop.s
+	@echo ... src/P56_DeleteDuplication.obj
+	@echo ... src/P56_DeleteDuplication.i
+	@echo ... src/P56_DeleteDuplication.s
 .PHONY : help
 
 

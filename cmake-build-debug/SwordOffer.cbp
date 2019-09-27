@@ -416,6 +416,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.h">
 			<Option target="SwordOffer"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P56_DeleteDuplication.cpp">
+			<Option target="SwordOffer"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/src/P56_DeleteDuplication.h">
+			<Option target="SwordOffer"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/SwordOffer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

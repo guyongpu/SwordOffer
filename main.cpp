@@ -55,11 +55,12 @@
 #include "src/P53_StringOfRepresentNum.h"
 #include "src/P54_FirstAppearingOnce.h"
 #include "src/P55_EntryNodeOfLoop.h"
+#include "src/P56_DeleteDuplication.h"
 
 using namespace std;
 
 int main() {
-    P55_EntryNodeOfLoop G;
+    P56_DeleteDuplication G;
     G.test();
     return 0;
 }

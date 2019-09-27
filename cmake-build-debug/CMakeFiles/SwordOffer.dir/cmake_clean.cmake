@@ -55,6 +55,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P53_StringOfRepresentNum.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P54_FirstAppearingOnce.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"

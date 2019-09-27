@@ -59,6 +59,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P53_StringOfRepresentNum.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P54_FirstAppearingOnce.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P56_DeleteDuplication.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -239,3 +240,7 @@ CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.h
+CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P56_DeleteDuplication.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P56_DeleteDuplication.h
