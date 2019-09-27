@@ -61,6 +61,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P54_FirstAppearingOnce.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P54_FirstAppearingOnce.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P56_DeleteDuplication.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P57_GetNextOfTree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

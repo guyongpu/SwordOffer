@@ -60,6 +60,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P54_FirstAppearingOnce.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P55_EntryNodeOfLoop.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P56_DeleteDuplication.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P57_GetNextOfTree.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -244,3 +245,7 @@ CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P56_DeleteDuplication.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P56_DeleteDuplication.h
+CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P57_GetNextOfTree.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P57_GetNextOfTree.h

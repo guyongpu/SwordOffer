@@ -59,6 +59,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P53_StringOfRepresentNum.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P54_FirstAppearingOnce.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P55_EntryNodeOfLoop.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P56_DeleteDuplication.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P57_GetNextOfTree.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -243,4 +244,8 @@ CMakeFiles/SwordOffer.dir/src/P55_EntryNodeOfLoop.cpp.obj: ../src/P55_EntryNodeO
 CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.obj: ../src/P00_CommonHead.h
 CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.obj: ../src/P56_DeleteDuplication.cpp
 CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.obj: ../src/P56_DeleteDuplication.h
+
+CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.obj: ../src/P00_CommonHead.h
+CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.obj: ../src/P57_GetNextOfTree.cpp
+CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.obj: ../src/P57_GetNextOfTree.h
 

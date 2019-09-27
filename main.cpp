@@ -56,11 +56,12 @@
 #include "src/P54_FirstAppearingOnce.h"
 #include "src/P55_EntryNodeOfLoop.h"
 #include "src/P56_DeleteDuplication.h"
+#include "src/P57_GetNextOfTree.h"
 
 using namespace std;
 
 int main() {
-    P56_DeleteDuplication G;
+    P57_GetNextOfTree G;
     G.test();
     return 0;
 }

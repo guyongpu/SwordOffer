@@ -1661,6 +1661,33 @@ src/P56_DeleteDuplication.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P56_DeleteDuplication.cpp.s
 .PHONY : src/P56_DeleteDuplication.cpp.s
 
+src/P57_GetNextOfTree.obj: src/P57_GetNextOfTree.cpp.obj
+
+.PHONY : src/P57_GetNextOfTree.obj
+
+# target to build an object file
+src/P57_GetNextOfTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.obj
+.PHONY : src/P57_GetNextOfTree.cpp.obj
+
+src/P57_GetNextOfTree.i: src/P57_GetNextOfTree.cpp.i
+
+.PHONY : src/P57_GetNextOfTree.i
+
+# target to preprocess a source file
+src/P57_GetNextOfTree.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.i
+.PHONY : src/P57_GetNextOfTree.cpp.i
+
+src/P57_GetNextOfTree.s: src/P57_GetNextOfTree.cpp.s
+
+.PHONY : src/P57_GetNextOfTree.s
+
+# target to generate assembly for a file
+src/P57_GetNextOfTree.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.s
+.PHONY : src/P57_GetNextOfTree.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1841,6 +1868,9 @@ help:
 	@echo ... src/P56_DeleteDuplication.obj
 	@echo ... src/P56_DeleteDuplication.i
 	@echo ... src/P56_DeleteDuplication.s
+	@echo ... src/P57_GetNextOfTree.obj
+	@echo ... src/P57_GetNextOfTree.i
+	@echo ... src/P57_GetNextOfTree.s
 .PHONY : help
 
 
