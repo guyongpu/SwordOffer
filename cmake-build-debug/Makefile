@@ -1688,6 +1688,87 @@ src/P57_GetNextOfTree.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.s
 .PHONY : src/P57_GetNextOfTree.cpp.s
 
+src/P58_IsSymmetricalTree.obj: src/P58_IsSymmetricalTree.cpp.obj
+
+.PHONY : src/P58_IsSymmetricalTree.obj
+
+# target to build an object file
+src/P58_IsSymmetricalTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P58_IsSymmetricalTree.cpp.obj
+.PHONY : src/P58_IsSymmetricalTree.cpp.obj
+
+src/P58_IsSymmetricalTree.i: src/P58_IsSymmetricalTree.cpp.i
+
+.PHONY : src/P58_IsSymmetricalTree.i
+
+# target to preprocess a source file
+src/P58_IsSymmetricalTree.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P58_IsSymmetricalTree.cpp.i
+.PHONY : src/P58_IsSymmetricalTree.cpp.i
+
+src/P58_IsSymmetricalTree.s: src/P58_IsSymmetricalTree.cpp.s
+
+.PHONY : src/P58_IsSymmetricalTree.s
+
+# target to generate assembly for a file
+src/P58_IsSymmetricalTree.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P58_IsSymmetricalTree.cpp.s
+.PHONY : src/P58_IsSymmetricalTree.cpp.s
+
+src/P59_PrintTreeWithZ.obj: src/P59_PrintTreeWithZ.cpp.obj
+
+.PHONY : src/P59_PrintTreeWithZ.obj
+
+# target to build an object file
+src/P59_PrintTreeWithZ.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P59_PrintTreeWithZ.cpp.obj
+.PHONY : src/P59_PrintTreeWithZ.cpp.obj
+
+src/P59_PrintTreeWithZ.i: src/P59_PrintTreeWithZ.cpp.i
+
+.PHONY : src/P59_PrintTreeWithZ.i
+
+# target to preprocess a source file
+src/P59_PrintTreeWithZ.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P59_PrintTreeWithZ.cpp.i
+.PHONY : src/P59_PrintTreeWithZ.cpp.i
+
+src/P59_PrintTreeWithZ.s: src/P59_PrintTreeWithZ.cpp.s
+
+.PHONY : src/P59_PrintTreeWithZ.s
+
+# target to generate assembly for a file
+src/P59_PrintTreeWithZ.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P59_PrintTreeWithZ.cpp.s
+.PHONY : src/P59_PrintTreeWithZ.cpp.s
+
+src/P60_PrintTreeWithMultiLine.obj: src/P60_PrintTreeWithMultiLine.cpp.obj
+
+.PHONY : src/P60_PrintTreeWithMultiLine.obj
+
+# target to build an object file
+src/P60_PrintTreeWithMultiLine.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.obj
+.PHONY : src/P60_PrintTreeWithMultiLine.cpp.obj
+
+src/P60_PrintTreeWithMultiLine.i: src/P60_PrintTreeWithMultiLine.cpp.i
+
+.PHONY : src/P60_PrintTreeWithMultiLine.i
+
+# target to preprocess a source file
+src/P60_PrintTreeWithMultiLine.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.i
+.PHONY : src/P60_PrintTreeWithMultiLine.cpp.i
+
+src/P60_PrintTreeWithMultiLine.s: src/P60_PrintTreeWithMultiLine.cpp.s
+
+.PHONY : src/P60_PrintTreeWithMultiLine.s
+
+# target to generate assembly for a file
+src/P60_PrintTreeWithMultiLine.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.s
+.PHONY : src/P60_PrintTreeWithMultiLine.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1871,6 +1952,15 @@ help:
 	@echo ... src/P57_GetNextOfTree.obj
 	@echo ... src/P57_GetNextOfTree.i
 	@echo ... src/P57_GetNextOfTree.s
+	@echo ... src/P58_IsSymmetricalTree.obj
+	@echo ... src/P58_IsSymmetricalTree.i
+	@echo ... src/P58_IsSymmetricalTree.s
+	@echo ... src/P59_PrintTreeWithZ.obj
+	@echo ... src/P59_PrintTreeWithZ.i
+	@echo ... src/P59_PrintTreeWithZ.s
+	@echo ... src/P60_PrintTreeWithMultiLine.obj
+	@echo ... src/P60_PrintTreeWithMultiLine.i
+	@echo ... src/P60_PrintTreeWithMultiLine.s
 .PHONY : help
 
 

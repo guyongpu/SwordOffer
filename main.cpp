@@ -57,11 +57,14 @@
 #include "src/P55_EntryNodeOfLoop.h"
 #include "src/P56_DeleteDuplication.h"
 #include "src/P57_GetNextOfTree.h"
+#include "src/P58_IsSymmetricalTree.h"
+#include "src/P59_PrintTreeWithZ.h"
+#include "src/P60_PrintTreeWithMultiLine.h"
 
 using namespace std;
 
 int main() {
-    P57_GetNextOfTree G;
+    P59_PrintTreeWithZ G;
     G.test();
     return 0;
 }

@@ -12,8 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P57_GetNextOfTree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P57_GetNextOfTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P58_IsSymmetricalTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P58_IsSymmetricalTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P59_PrintTreeWithZ.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P59_PrintTreeWithZ.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P60_PrintTreeWithMultiLine.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P60_PrintTreeWithMultiLine.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -33,7 +37,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P00_CommonHead.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/P00_CommonHead.h" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +134,7 @@
       <workItem from="1569370557334" duration="1148000" />
       <workItem from="1569409391669" duration="8527000" />
       <workItem from="1569457087955" duration="35256000" />
-      <workItem from="1569543370604" duration="8679000" />
+      <workItem from="1569543370604" duration="16053000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -259,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569548682495</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="P57 finish">
+      <created>1569552085698</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569552085698</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +305,8 @@
     <MESSAGE value="P53 finish" />
     <MESSAGE value="P55 finish" />
     <MESSAGE value="P56 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="P56 finish" />
+    <MESSAGE value="P57 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="P57 finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -464,6 +475,11 @@
           <url>file://$PROJECT_DIR$/src/P56_DeleteDuplication.cpp</url>
           <line>49</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P60_PrintTreeWithMultiLine.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
