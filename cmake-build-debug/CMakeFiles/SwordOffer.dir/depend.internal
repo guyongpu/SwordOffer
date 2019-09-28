@@ -64,6 +64,9 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P58_IsSymmetricalTree.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P59_PrintTreeWithZ.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P60_PrintTreeWithMultiLine.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P61_SerializeTree.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P62_KthNodeOfTree.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P63_MidNumOfData.h
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P01_2d_array_find.h
@@ -264,3 +267,14 @@ CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.obj
  E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
  E:/OneDrive/CodingInterview/SwordOffer/src/P60_PrintTreeWithMultiLine.cpp
  E:/OneDrive/CodingInterview/SwordOffer/src/P60_PrintTreeWithMultiLine.h
+CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P61_SerializeTree.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P61_SerializeTree.h
+CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P00_CommonHead.h
+ E:/OneDrive/CodingInterview/SwordOffer/src/P62_KthNodeOfTree.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P62_KthNodeOfTree.h
+CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj
+ E:/OneDrive/CodingInterview/SwordOffer/src/P63_MidNumOfData.cpp
+ E:/OneDrive/CodingInterview/SwordOffer/src/P63_MidNumOfData.h

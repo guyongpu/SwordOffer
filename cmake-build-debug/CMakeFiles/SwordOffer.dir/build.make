@@ -849,6 +849,45 @@ CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P60_PrintTreeWithMultiLine.cpp -o CMakeFiles\SwordOffer.dir\src\P60_PrintTreeWithMultiLine.cpp.s
 
+CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj: ../src/P61_SerializeTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P61_SerializeTree.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P61_SerializeTree.cpp
+
+CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P61_SerializeTree.cpp > CMakeFiles\SwordOffer.dir\src\P61_SerializeTree.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P61_SerializeTree.cpp -o CMakeFiles\SwordOffer.dir\src\P61_SerializeTree.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj: ../src/P62_KthNodeOfTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P62_KthNodeOfTree.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P62_KthNodeOfTree.cpp
+
+CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P62_KthNodeOfTree.cpp > CMakeFiles\SwordOffer.dir\src\P62_KthNodeOfTree.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P62_KthNodeOfTree.cpp -o CMakeFiles\SwordOffer.dir\src\P62_KthNodeOfTree.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj: ../src/P63_MidNumOfData.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P63_MidNumOfData.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P63_MidNumOfData.cpp
+
+CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P63_MidNumOfData.cpp > CMakeFiles\SwordOffer.dir\src\P63_MidNumOfData.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P63_MidNumOfData.cpp -o CMakeFiles\SwordOffer.dir\src\P63_MidNumOfData.cpp.s
+
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
@@ -911,7 +950,10 @@ SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P58_IsSymmetricalTree.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P59_PrintTreeWithZ.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
@@ -977,11 +1019,14 @@ SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P57_GetNextOfTree.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P58_IsSymmetricalTree.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P59_PrintTreeWithZ.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

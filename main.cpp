@@ -60,11 +60,14 @@
 #include "src/P58_IsSymmetricalTree.h"
 #include "src/P59_PrintTreeWithZ.h"
 #include "src/P60_PrintTreeWithMultiLine.h"
+#include "src/P61_SerializeTree.h"
+#include "src/P62_KthNodeOfTree.h"
+#include "src/P63_MidNumOfData.h"
 
 using namespace std;
 
 int main() {
-    P59_PrintTreeWithZ G;
+    P63_MidNumOfData G;
     G.test();
     return 0;
 }

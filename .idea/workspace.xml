@@ -12,12 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P58_IsSymmetricalTree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P58_IsSymmetricalTree.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P59_PrintTreeWithZ.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P59_PrintTreeWithZ.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P60_PrintTreeWithMultiLine.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P60_PrintTreeWithMultiLine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P61_SerializeTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P61_SerializeTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P62_KthNodeOfTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P62_KthNodeOfTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P63_MidNumOfData.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P63_MidNumOfData.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -134,7 +134,8 @@
       <workItem from="1569370557334" duration="1148000" />
       <workItem from="1569409391669" duration="8527000" />
       <workItem from="1569457087955" duration="35256000" />
-      <workItem from="1569543370604" duration="16053000" />
+      <workItem from="1569543370604" duration="32738000" />
+      <workItem from="1569633389977" duration="11581000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -269,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569552085698</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="P57 finish">
+      <created>1569567456698</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569567456698</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +489,32 @@
           <line>16</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P61_SerializeTree.cpp</url>
+          <line>67</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P61_SerializeTree.cpp</url>
+          <line>59</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P62_KthNodeOfTree.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P63_MidNumOfData.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="root" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

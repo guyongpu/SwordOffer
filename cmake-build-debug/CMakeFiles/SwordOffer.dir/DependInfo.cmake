@@ -65,6 +65,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P58_IsSymmetricalTree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P58_IsSymmetricalTree.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P59_PrintTreeWithZ.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P59_PrintTreeWithZ.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P60_PrintTreeWithMultiLine.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P61_SerializeTree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P62_KthNodeOfTree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P63_MidNumOfData.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

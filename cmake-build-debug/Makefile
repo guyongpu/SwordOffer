@@ -1769,6 +1769,87 @@ src/P60_PrintTreeWithMultiLine.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P60_PrintTreeWithMultiLine.cpp.s
 .PHONY : src/P60_PrintTreeWithMultiLine.cpp.s
 
+src/P61_SerializeTree.obj: src/P61_SerializeTree.cpp.obj
+
+.PHONY : src/P61_SerializeTree.obj
+
+# target to build an object file
+src/P61_SerializeTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj
+.PHONY : src/P61_SerializeTree.cpp.obj
+
+src/P61_SerializeTree.i: src/P61_SerializeTree.cpp.i
+
+.PHONY : src/P61_SerializeTree.i
+
+# target to preprocess a source file
+src/P61_SerializeTree.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.i
+.PHONY : src/P61_SerializeTree.cpp.i
+
+src/P61_SerializeTree.s: src/P61_SerializeTree.cpp.s
+
+.PHONY : src/P61_SerializeTree.s
+
+# target to generate assembly for a file
+src/P61_SerializeTree.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.s
+.PHONY : src/P61_SerializeTree.cpp.s
+
+src/P62_KthNodeOfTree.obj: src/P62_KthNodeOfTree.cpp.obj
+
+.PHONY : src/P62_KthNodeOfTree.obj
+
+# target to build an object file
+src/P62_KthNodeOfTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj
+.PHONY : src/P62_KthNodeOfTree.cpp.obj
+
+src/P62_KthNodeOfTree.i: src/P62_KthNodeOfTree.cpp.i
+
+.PHONY : src/P62_KthNodeOfTree.i
+
+# target to preprocess a source file
+src/P62_KthNodeOfTree.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.i
+.PHONY : src/P62_KthNodeOfTree.cpp.i
+
+src/P62_KthNodeOfTree.s: src/P62_KthNodeOfTree.cpp.s
+
+.PHONY : src/P62_KthNodeOfTree.s
+
+# target to generate assembly for a file
+src/P62_KthNodeOfTree.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.s
+.PHONY : src/P62_KthNodeOfTree.cpp.s
+
+src/P63_MidNumOfData.obj: src/P63_MidNumOfData.cpp.obj
+
+.PHONY : src/P63_MidNumOfData.obj
+
+# target to build an object file
+src/P63_MidNumOfData.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj
+.PHONY : src/P63_MidNumOfData.cpp.obj
+
+src/P63_MidNumOfData.i: src/P63_MidNumOfData.cpp.i
+
+.PHONY : src/P63_MidNumOfData.i
+
+# target to preprocess a source file
+src/P63_MidNumOfData.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.i
+.PHONY : src/P63_MidNumOfData.cpp.i
+
+src/P63_MidNumOfData.s: src/P63_MidNumOfData.cpp.s
+
+.PHONY : src/P63_MidNumOfData.s
+
+# target to generate assembly for a file
+src/P63_MidNumOfData.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.s
+.PHONY : src/P63_MidNumOfData.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1961,6 +2042,15 @@ help:
 	@echo ... src/P60_PrintTreeWithMultiLine.obj
 	@echo ... src/P60_PrintTreeWithMultiLine.i
 	@echo ... src/P60_PrintTreeWithMultiLine.s
+	@echo ... src/P61_SerializeTree.obj
+	@echo ... src/P61_SerializeTree.i
+	@echo ... src/P61_SerializeTree.s
+	@echo ... src/P62_KthNodeOfTree.obj
+	@echo ... src/P62_KthNodeOfTree.i
+	@echo ... src/P62_KthNodeOfTree.s
+	@echo ... src/P63_MidNumOfData.obj
+	@echo ... src/P63_MidNumOfData.i
+	@echo ... src/P63_MidNumOfData.s
 .PHONY : help
 
 
