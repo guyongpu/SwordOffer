@@ -11,20 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="P64 finish">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P65_PathOfMatrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P65_PathOfMatrix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P65_PathOfMatrix.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/P65_PathOfMatrix.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +109,7 @@
       <workItem from="1569409391669" duration="8527000" />
       <workItem from="1569457087955" duration="35256000" />
       <workItem from="1569543370604" duration="32738000" />
-      <workItem from="1569633389977" duration="29986000" />
+      <workItem from="1569633389977" duration="30037000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -278,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569660231565</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="all finish!!!">
+      <created>1569679336105</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1569679336105</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +311,8 @@
     <MESSAGE value="P57 finish" />
     <MESSAGE value="P63 finish" />
     <MESSAGE value="P64 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="P64 finish" />
+    <MESSAGE value="all finish!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="all finish!!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
