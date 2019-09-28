@@ -11,34 +11,19 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P65_PathOfMatrix.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P65_PathOfMatrix.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P66_RangeOfRobotMotion.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P67_CutRope.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P67_CutRope.h" afterDir="false" />
+    <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="P64 finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P01_2d_array_find.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P01_2d_array_find.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P56_DeleteDuplication.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P56_DeleteDuplication.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P65_PathOfMatrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P65_PathOfMatrix.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P65_PathOfMatrix.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/P65_PathOfMatrix.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +122,7 @@
       <workItem from="1569409391669" duration="8527000" />
       <workItem from="1569457087955" duration="35256000" />
       <workItem from="1569543370604" duration="32738000" />
-      <workItem from="1569633389977" duration="25430000" />
+      <workItem from="1569633389977" duration="29986000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -536,21 +521,6 @@
           <url>file://$PROJECT_DIR$/src/P67_CutRope.cpp</url>
           <line>94</line>
           <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp</url>
-          <line>13</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp</url>
-          <line>22</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp</url>
-          <line>34</line>
-          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

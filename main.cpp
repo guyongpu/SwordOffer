@@ -71,7 +71,7 @@
 using namespace std;
 
 int main() {
-    P66_RangeOfRobotMotion G;
+    P67_CutRope G;
     G.test();
     return 0;
 }
