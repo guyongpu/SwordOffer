@@ -63,6 +63,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj"
   "CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj"
+  "CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj"
   "SwordOffer.pdb"
   "SwordOffer.exe"
   "SwordOffer.exe.manifest"

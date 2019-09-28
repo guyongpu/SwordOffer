@@ -1850,6 +1850,33 @@ src/P63_MidNumOfData.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.s
 .PHONY : src/P63_MidNumOfData.cpp.s
 
+src/P64_MaxInWindows.obj: src/P64_MaxInWindows.cpp.obj
+
+.PHONY : src/P64_MaxInWindows.obj
+
+# target to build an object file
+src/P64_MaxInWindows.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj
+.PHONY : src/P64_MaxInWindows.cpp.obj
+
+src/P64_MaxInWindows.i: src/P64_MaxInWindows.cpp.i
+
+.PHONY : src/P64_MaxInWindows.i
+
+# target to preprocess a source file
+src/P64_MaxInWindows.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.i
+.PHONY : src/P64_MaxInWindows.cpp.i
+
+src/P64_MaxInWindows.s: src/P64_MaxInWindows.cpp.s
+
+.PHONY : src/P64_MaxInWindows.s
+
+# target to generate assembly for a file
+src/P64_MaxInWindows.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.s
+.PHONY : src/P64_MaxInWindows.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -2051,6 +2078,9 @@ help:
 	@echo ... src/P63_MidNumOfData.obj
 	@echo ... src/P63_MidNumOfData.i
 	@echo ... src/P63_MidNumOfData.s
+	@echo ... src/P64_MaxInWindows.obj
+	@echo ... src/P64_MaxInWindows.i
+	@echo ... src/P64_MaxInWindows.s
 .PHONY : help
 
 

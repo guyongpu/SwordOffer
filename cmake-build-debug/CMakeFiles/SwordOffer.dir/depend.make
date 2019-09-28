@@ -66,6 +66,7 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P60_PrintTreeWithMultiLine.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P61_SerializeTree.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P62_KthNodeOfTree.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P63_MidNumOfData.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P64_MaxInWindows.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -277,4 +278,7 @@ CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj: ../src/P62_KthNodeOfTre
 
 CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj: ../src/P63_MidNumOfData.cpp
 CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj: ../src/P63_MidNumOfData.h
+
+CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj: ../src/P64_MaxInWindows.cpp
+CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj: ../src/P64_MaxInWindows.h
 

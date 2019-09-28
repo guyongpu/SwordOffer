@@ -63,11 +63,12 @@
 #include "src/P61_SerializeTree.h"
 #include "src/P62_KthNodeOfTree.h"
 #include "src/P63_MidNumOfData.h"
+#include "src/P64_MaxInWindows.h"
 
 using namespace std;
 
 int main() {
-    P63_MidNumOfData G;
+    P64_MaxInWindows G;
     G.test();
     return 0;
 }
