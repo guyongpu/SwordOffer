@@ -901,6 +901,45 @@ CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P64_MaxInWindows.cpp -o CMakeFiles\SwordOffer.dir\src\P64_MaxInWindows.cpp.s
 
+CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj: ../src/P65_PathOfMatrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P65_PathOfMatrix.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P65_PathOfMatrix.cpp
+
+CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P65_PathOfMatrix.cpp > CMakeFiles\SwordOffer.dir\src\P65_PathOfMatrix.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P65_PathOfMatrix.cpp -o CMakeFiles\SwordOffer.dir\src\P65_PathOfMatrix.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.obj: ../src/P67_CutRope.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P67_CutRope.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P67_CutRope.cpp
+
+CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P67_CutRope.cpp > CMakeFiles\SwordOffer.dir\src\P67_CutRope.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P67_CutRope.cpp -o CMakeFiles\SwordOffer.dir\src\P67_CutRope.cpp.s
+
+CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj: CMakeFiles/SwordOffer.dir/flags.make
+CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj: ../src/P66_RangeOfRobotMotion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SwordOffer.dir\src\P66_RangeOfRobotMotion.cpp.obj -c E:\OneDrive\CodingInterview\SwordOffer\src\P66_RangeOfRobotMotion.cpp
+
+CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\SwordOffer\src\P66_RangeOfRobotMotion.cpp > CMakeFiles\SwordOffer.dir\src\P66_RangeOfRobotMotion.cpp.i
+
+CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\SwordOffer\src\P66_RangeOfRobotMotion.cpp -o CMakeFiles\SwordOffer.dir\src\P66_RangeOfRobotMotion.cpp.s
+
 # Object files for target SwordOffer
 SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/main.cpp.obj" \
@@ -967,7 +1006,10 @@ SwordOffer_OBJECTS = \
 "CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj" \
 "CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj" \
-"CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj"
+"CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.obj" \
+"CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj"
 
 # External object files for target SwordOffer
 SwordOffer_EXTERNAL_OBJECTS =
@@ -1037,11 +1079,14 @@ SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P61_SerializeTree.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.obj
+SwordOffer.exe: CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/build.make
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/linklibs.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/objects1.rsp
 SwordOffer.exe: CMakeFiles/SwordOffer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Linking CXX executable SwordOffer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\SwordOffer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Linking CXX executable SwordOffer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SwordOffer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -64,11 +64,14 @@
 #include "src/P62_KthNodeOfTree.h"
 #include "src/P63_MidNumOfData.h"
 #include "src/P64_MaxInWindows.h"
+#include "src/P65_PathOfMatrix.h"
+#include "src/P66_RangeOfRobotMotion.h"
+#include "src/P67_CutRope.h"
 
 using namespace std;
 
 int main() {
-    P64_MaxInWindows G;
+    P66_RangeOfRobotMotion G;
     G.test();
     return 0;
 }

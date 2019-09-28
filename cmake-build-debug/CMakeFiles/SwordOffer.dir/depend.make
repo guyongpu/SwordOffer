@@ -67,6 +67,9 @@ CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P61_SerializeTree.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P62_KthNodeOfTree.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P63_MidNumOfData.h
 CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P64_MaxInWindows.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P65_PathOfMatrix.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P66_RangeOfRobotMotion.h
+CMakeFiles/SwordOffer.dir/main.cpp.obj: ../src/P67_CutRope.h
 
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.cpp
 CMakeFiles/SwordOffer.dir/src/P01_2d_array_find.cpp.obj: ../src/P01_2d_array_find.h
@@ -281,4 +284,13 @@ CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj: ../src/P63_MidNumOfData.
 
 CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj: ../src/P64_MaxInWindows.cpp
 CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj: ../src/P64_MaxInWindows.h
+
+CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj: ../src/P65_PathOfMatrix.cpp
+CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj: ../src/P65_PathOfMatrix.h
+
+CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj: ../src/P66_RangeOfRobotMotion.cpp
+CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj: ../src/P66_RangeOfRobotMotion.h
+
+CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.obj: ../src/P67_CutRope.cpp
+CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.obj: ../src/P67_CutRope.h
 

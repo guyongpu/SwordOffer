@@ -12,8 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a74111-fe99-4294-85f5-da917cb248a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P64_MaxInWindows.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P64_MaxInWindows.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P65_PathOfMatrix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P65_PathOfMatrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P66_RangeOfRobotMotion.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P67_CutRope.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P67_CutRope.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -33,6 +37,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SwordOffer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P01_2d_array_find.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P01_2d_array_find.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P56_DeleteDuplication.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/P56_DeleteDuplication.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +137,7 @@
       <workItem from="1569409391669" duration="8527000" />
       <workItem from="1569457087955" duration="35256000" />
       <workItem from="1569543370604" duration="32738000" />
-      <workItem from="1569633389977" duration="17508000" />
+      <workItem from="1569633389977" duration="25430000" />
     </task>
     <task id="LOCAL-00001" summary="P35 finish">
       <created>1569161374985</created>
@@ -280,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569645754902</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="P64 finish">
+      <created>1569660231565</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1569660231565</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +331,8 @@
     <MESSAGE value="P56 finish" />
     <MESSAGE value="P57 finish" />
     <MESSAGE value="P63 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="P63 finish" />
+    <MESSAGE value="P64 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="P64 finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -517,6 +531,26 @@
           <url>file://$PROJECT_DIR$/src/P64_MaxInWindows.cpp</url>
           <line>16</line>
           <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P67_CutRope.cpp</url>
+          <line>94</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/P66_RangeOfRobotMotion.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

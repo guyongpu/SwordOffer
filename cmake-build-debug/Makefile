@@ -1877,6 +1877,87 @@ src/P64_MaxInWindows.cpp.s:
 	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.s
 .PHONY : src/P64_MaxInWindows.cpp.s
 
+src/P65_PathOfMatrix.obj: src/P65_PathOfMatrix.cpp.obj
+
+.PHONY : src/P65_PathOfMatrix.obj
+
+# target to build an object file
+src/P65_PathOfMatrix.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj
+.PHONY : src/P65_PathOfMatrix.cpp.obj
+
+src/P65_PathOfMatrix.i: src/P65_PathOfMatrix.cpp.i
+
+.PHONY : src/P65_PathOfMatrix.i
+
+# target to preprocess a source file
+src/P65_PathOfMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.i
+.PHONY : src/P65_PathOfMatrix.cpp.i
+
+src/P65_PathOfMatrix.s: src/P65_PathOfMatrix.cpp.s
+
+.PHONY : src/P65_PathOfMatrix.s
+
+# target to generate assembly for a file
+src/P65_PathOfMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.s
+.PHONY : src/P65_PathOfMatrix.cpp.s
+
+src/P66_RangeOfRobotMotion.obj: src/P66_RangeOfRobotMotion.cpp.obj
+
+.PHONY : src/P66_RangeOfRobotMotion.obj
+
+# target to build an object file
+src/P66_RangeOfRobotMotion.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj
+.PHONY : src/P66_RangeOfRobotMotion.cpp.obj
+
+src/P66_RangeOfRobotMotion.i: src/P66_RangeOfRobotMotion.cpp.i
+
+.PHONY : src/P66_RangeOfRobotMotion.i
+
+# target to preprocess a source file
+src/P66_RangeOfRobotMotion.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.i
+.PHONY : src/P66_RangeOfRobotMotion.cpp.i
+
+src/P66_RangeOfRobotMotion.s: src/P66_RangeOfRobotMotion.cpp.s
+
+.PHONY : src/P66_RangeOfRobotMotion.s
+
+# target to generate assembly for a file
+src/P66_RangeOfRobotMotion.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.s
+.PHONY : src/P66_RangeOfRobotMotion.cpp.s
+
+src/P67_CutRope.obj: src/P67_CutRope.cpp.obj
+
+.PHONY : src/P67_CutRope.obj
+
+# target to build an object file
+src/P67_CutRope.cpp.obj:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.obj
+.PHONY : src/P67_CutRope.cpp.obj
+
+src/P67_CutRope.i: src/P67_CutRope.cpp.i
+
+.PHONY : src/P67_CutRope.i
+
+# target to preprocess a source file
+src/P67_CutRope.cpp.i:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.i
+.PHONY : src/P67_CutRope.cpp.i
+
+src/P67_CutRope.s: src/P67_CutRope.cpp.s
+
+.PHONY : src/P67_CutRope.s
+
+# target to generate assembly for a file
+src/P67_CutRope.cpp.s:
+	$(MAKE) -f CMakeFiles\SwordOffer.dir\build.make CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.s
+.PHONY : src/P67_CutRope.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -2081,6 +2162,15 @@ help:
 	@echo ... src/P64_MaxInWindows.obj
 	@echo ... src/P64_MaxInWindows.i
 	@echo ... src/P64_MaxInWindows.s
+	@echo ... src/P65_PathOfMatrix.obj
+	@echo ... src/P65_PathOfMatrix.i
+	@echo ... src/P65_PathOfMatrix.s
+	@echo ... src/P66_RangeOfRobotMotion.obj
+	@echo ... src/P66_RangeOfRobotMotion.i
+	@echo ... src/P66_RangeOfRobotMotion.s
+	@echo ... src/P67_CutRope.obj
+	@echo ... src/P67_CutRope.i
+	@echo ... src/P67_CutRope.s
 .PHONY : help
 
 

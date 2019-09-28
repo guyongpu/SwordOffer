@@ -69,6 +69,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/SwordOffer/src/P62_KthNodeOfTree.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P62_KthNodeOfTree.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P63_MidNumOfData.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P63_MidNumOfData.cpp.obj"
   "E:/OneDrive/CodingInterview/SwordOffer/src/P64_MaxInWindows.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P64_MaxInWindows.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P65_PathOfMatrix.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P65_PathOfMatrix.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P66_RangeOfRobotMotion.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P66_RangeOfRobotMotion.cpp.obj"
+  "E:/OneDrive/CodingInterview/SwordOffer/src/P67_CutRope.cpp" "E:/OneDrive/CodingInterview/SwordOffer/cmake-build-debug/CMakeFiles/SwordOffer.dir/src/P67_CutRope.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
